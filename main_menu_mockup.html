@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HellMerge RPG - Main Menu Map Mockup</title>
+    <style>
+      /* Mengimpor font Serif & Sans-serif */
+      @import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Noto+Sans:wght@400;600&display=swap");
+
+      :root {
+        --bg-color: #f2ebe1; /* Krem Hangat Utama */
+        --text-main: #4a443f; /* Abu Kecokelatan Gelap */
+        --text-muted: #b0a89d; /* Abu Pasir Pudar */
+        --border-color: #e3dbcb; /* Krem Gelap untuk Pemisah */
+        --accent-color: #9c4543; /* Highlights Merah Muted */
+        --map-lines: #d8d0c0; /* Warna garis peta sangat tipis */
+      }
+
+      body {
+        background-color: #2b2b2b;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: "Noto Sans", sans-serif;
+        color: var(--text-main);
+      }
+
+      /* Container Game Window */
+      .game-window {
+        background-color: var(--bg-color);
+        width: 900px;
+        height: 600px;
+        box-shadow: 0 10px 50px rgba(0, 0, 0, 0.7);
+        position: relative;
+        display: flex;
+        align-items: center;
+        border: 2px solid var(--border-color);
+        overflow: hidden; /* Penting agar unsur peta tidak keluar */
+      }
+
+      /* --- LAPISAN PETA LATAR BELAKANG (Inilah Unsur Peta Baru) --- */
+      .map-background-overlay {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 1; /* Paling bawah */
+        opacity: 0.15; /* SANGAT PENTING: Tipiskan agar tidak mengganggu baca teks */
+
+        /* Menggunakan SVG Background untuk garis pantai & jalur titik-titik (disimulasikan dengan gradient) */
+        background-image: 
+                /* Fake Dotted Path */
+          repeating-linear-gradient(
+            45deg,
+            var(--text-muted) 0px,
+            var(--text-muted) 2px,
+            transparent 2px,
+            transparent 10px
+          ),
+          /* Fake Sketched Coastlines */
+          radial-gradient(
+              circle at 120% 60%,
+              transparent 40%,
+              var(--map-lines) 40.1%,
+              transparent 42%
+            ),
+          radial-gradient(
+            circle at 100% 20%,
+            transparent 30%,
+            var(--map-lines) 30.1%,
+            transparent 34%
+          ),
+          /* Lighting Gradient to Deep Cream */
+          radial-gradient(circle at 100% 100%, #e3dbcb 0%, var(--bg-color) 70%);
+      }
+
+      /* Ikon Mawar Kompas Klasik di Pojok Kanan Bawah */
+      .compass-rose {
+        position: absolute;
+        bottom: 40px;
+        right: 40px;
+        z-index: 2;
+        width: 120px;
+        height: 120px;
+        opacity: 0.2; /* Subtil */
+        color: var(--map-lines);
+        font-size: 100px; /* Gunakan Unicode untuk kemudahan mockup */
+        font-family: serif;
+        pointer-events: none; /* Biar tidak bisa diklik */
+      }
+
+      /* --- KONTEN MENU UTAMA (Sama seperti sebelumnya) --- */
+      .menu-container {
+        margin-left: 80px;
+        z-index: 10; /* Di atas lapisan peta */
+        position: relative;
+      }
+
+      .game-title {
+        font-family: "Merriweather", serif;
+        font-size: 56px;
+        font-weight: 700;
+        margin: 0;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+      }
+
+      .game-subtitle {
+        font-family: "Merriweather", serif;
+        font-size: 18px;
+        font-weight: 300;
+        font-style: italic;
+        color: var(--text-muted);
+        margin-top: 5px;
+        margin-bottom: 60px;
+        letter-spacing: 1px;
+      }
+
+      .menu-options {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+      }
+
+      .menu-btn {
+        background: none;
+        border: none;
+        text-align: left;
+        font-family: "Noto Sans", sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        color: var(--text-main);
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        cursor: pointer;
+        padding: 5px 0;
+        width: fit-content;
+        position: relative;
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+      }
+
+      .menu-btn::before {
+        content: "▶";
+        position: absolute;
+        left: -20px;
+        opacity: 0;
+        font-size: 14px;
+        color: var(--accent-color);
+        transition: all 0.3s ease;
+        transform: translateX(-10px);
+      }
+
+      .menu-btn:hover {
+        color: var(--accent-color);
+        transform: translateX(20px);
+      }
+      .menu-btn:hover::before {
+        opacity: 1;
+        transform: translateX(0);
+      }
+
+      .menu-btn:disabled {
+        color: var(--border-color);
+        cursor: not-allowed;
+        transform: none;
+      }
+      .menu-btn:disabled::before {
+        display: none;
+      }
+
+      .version-text {
+        position: absolute;
+        bottom: 20px;
+        left: 80px; /* Pindah ke kiri agar tidak tabrakan dengan kompas */
+        z-index: 10;
+        font-size: 12px;
+        color: var(--text-muted);
+        letter-spacing: 1px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="game-window">
+      <div class="map-background-overlay"></div>
+
+      <div class="compass-rose">N</div>
+
+      <div class="menu-container">
+        <h1 class="game-title">HELLMERGE</h1>
+        <h2 class="game-subtitle">Tales of Oakhaven</h2>
+
+        <div class="menu-options">
+          <button class="menu-btn">New Adventure</button>
+          <button class="menu-btn" disabled>Continue Journey</button>
+          <button class="menu-btn">Options</button>
+          <button class="menu-btn">Depart</button>
+        </div>
+      </div>
+
+      <div class="version-text">v0.1.0 Alpha</div>
+    </div>
+  </body>
+</html>

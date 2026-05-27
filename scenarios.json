@@ -1,0 +1,1310 @@
+[
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I try to negotiate with Mayor Bartholomew while making a silly face"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 9 | DEX: 8 | END: 6 | INT: 7 | AWR: 4 | CHA: 6 | LCK: 9\nRaw D20 Roll: 18",
+        "action": "I use my Tactical Frying Pan to deflect the goblin's attacks and offer it a snack"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 30, Level: 2\nStats: STR: 5 | DEX: 4 | END: 8 | INT: 3 | AWR: 6 | CHA: 7 | LCK: 1\nRaw D20 Roll: 6",
+        "action": "I attempt to climb the steep stairs while singing a silly song"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer just wants friends\n\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 7 | DEX: 9 | END: 5 | INT: 8 | AWR: 7 | CHA: 4 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "I use my Staff of Splinters to conduct a mock battle with the Dramatic Slime"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to stop the goblins from crashing through the tavern window\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 40, Level: 3\nStats: STR: 6 | DEX: 5 | END: 9 | INT: 2 | AWR: 8 | CHA: 5 | LCK: 4\nRaw D20 Roll: 10",
+        "action": "I ask Sir Lancelittle for help, but he gets lost on the way to the tavern"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get a new Slightly Used Broadsword from Iron Thumb Olga\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 7 | END: 4 | INT: 6 | AWR: 3 | CHA: 8 | LCK: 5\nRaw D20 Roll: 16",
+        "action": "I try to haggle with Iron Thumb Olga while secretly admiring her knitting skills"
+    },
+    {
+        "context": "Story Context\nMain Objective: Reach the top of Mount Inconvenience without using the stairs\n\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 20, Level: 1\nStats: STR: 4 | DEX: 3 | END: 10 | INT: 1 | AWR: 9 | CHA: 2 | LCK: 8\nRaw D20 Roll: 4",
+        "action": "I attempt to climb the mountain using only my Tactical Pocket Sand"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help the 'evil' necromancer find friends\n\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 9 | DEX: 6 | END: 8 | INT: 5 | AWR: 2 | CHA: 9 | LCK: 7\nRaw D20 Roll: 15",
+        "action": "I use my Ring of Mild Convenience to make the Insecure Mimic feel more confident"
+    },
+    {
+        "context": "Story Context\nMain Objective: Stop the goblins from taking over the tavern\n\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 10, Level: 4\nStats: STR: 7 | DEX: 8 | END: 3 | INT: 9 | AWR: 1 | CHA: 6 | LCK: 2\nRaw D20 Roll: 20",
+        "action": "I challenge the goblin to a dance-off to distract it from the tavern"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to get the perfect cup of tea like Archmage Fizzlebang\n\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 5 | DEX: 4 | END: 9 | INT: 7 | AWR: 6 | CHA: 8 | LCK: 9\nRaw D20 Roll: 11",
+        "action": "I ask Archmage Fizzlebang to teach me the ways of cosmic tea magic"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate the Muttering Woods without getting judged by the trees\n\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 6 | DEX: 9 | END: 7 | INT: 3 | AWR: 5 | CHA: 4 | LCK: 6\nRaw D20 Roll: 7",
+        "action": "I try to sneak through the woods while wearing a fancy outfit to impress the trees"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Iron Thumb Olga with her knitting\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 8 | DEX: 6 | END: 5 | INT: 9 | AWR: 7 | CHA: 3 | LCK: 4\nRaw D20 Roll: 13",
+        "action": "I offer to help Iron Thumb Olga knit a scarf while she works on my new Slightly Used Broadsword"
+    },
+    {
+        "context": "Story Context\nMain Objective: Reach the bandit king's lair on Mount Inconvenience\n\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 3\nStats: STR: 9 | DEX: 5 | END: 6 | INT: 2 | AWR: 8 | CHA: 7 | LCK: 1\nRaw D20 Roll: 5",
+        "action": "I attempt to reason with the Overencumbered Skeleton and offer to help it with its rusty spoons"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a cure for the Questionable Red Potion's side effects\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 7 | DEX: 8 | END: 4 | INT: 6 | AWR: 3 | CHA: 9 | LCK: 5\nRaw D20 Roll: 17",
+        "action": "I ask Mayor Bartholomew for help, but he's too busy eating soup"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get Sir Lancelittle to stop getting lost\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 20, Level: 1\nStats: STR: 5 | DEX: 3 | END: 10 | INT: 1 | AWR: 9 | CHA: 2 | LCK: 8\nRaw D20 Roll: 2",
+        "action": "I try to give Sir Lancelittle a map, but he thinks it's a treasure map"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Archmage Fizzlebang with his tea party\n\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 9 | DEX: 6 | END: 8 | INT: 5 | AWR: 2 | CHA: 9 | LCK: 7\nRaw D20 Roll: 19",
+        "action": "I use my Lucky D20 Pendant to ensure the perfect tea temperature for Archmage Fizzlebang"
+    },
+    {
+        "context": "Story Context\nMain Objective: Stop the Dramatic Slime from being too dramatic\n\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 10, Level: 4\nStats: STR: 7 | DEX: 8 | END: 3 | INT: 9 | AWR: 1 | CHA: 6 | LCK: 2\nRaw D20 Roll: 12",
+        "action": "I try to calm the Dramatic Slime down with a soothing melody"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to make the goblins stop taking breaks\n\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 5 | DEX: 4 | END: 9 | INT: 7 | AWR: 6 | CHA: 8 | LCK: 9\nRaw D20 Roll: 15",
+        "action": "I challenge the goblin to a break-dancing competition to distract it from its breaks"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get the 'evil' necromancer to join the tea party\n\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 6 | DEX: 9 | END: 7 | INT: 3 | AWR: 5 | CHA: 4 | LCK: 6\nRaw D20 Roll: 10",
+        "action": "I invite the 'evil' necromancer to the tea party and offer to bring some Questionable Red Potion"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Iron Thumb Olga finish her knitting project\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 8 | DEX: 6 | END: 5 | INT: 9 | AWR: 7 | CHA: 3 | LCK: 4\nRaw D20 Roll: 14",
+        "action": "I offer to model Iron Thumb Olga's finished knitting project on the catwalk"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive the night in the Muttering Woods\n\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 3\nStats: STR: 9 | DEX: 5 | END: 6 | INT: 2 | AWR: 8 | CHA: 7 | LCK: 1\nRaw D20 Roll: 6",
+        "action": "I try to build a shelter using only my Chafing Chainmail and some nearby twigs"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find the bandit king's secret weakness\n\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 7 | DEX: 8 | END: 4 | INT: 6 | AWR: 3 | CHA: 9 | LCK: 5\nRaw D20 Roll: 18",
+        "action": "I use my Scroll of Fireball to distract the Overencumbered Skeleton while I search for clues"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "Attempt to distract the goblin with a Tactical Frying Pan while negotiating with the Mayor"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 9 | DEX: 8 | END: 8 | INT: 6 | AWR: 7 | CHA: 8 | LCK: 5\nRaw D20 Roll: 18",
+        "action": "Use the Staff of Splinters to deflect the goblin's attack and then try to calm it down with a cup of tea"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 30, Level: 3\nStats: STR: 5 | DEX: 4 | END: 6 | INT: 3 | AWR: 4 | CHA: 6 | LCK: 2\nRaw D20 Roll: 10",
+        "action": "Try to climb the steep stairs without using hands and shout motivational quotes back at the Orc Life Coach"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 7 | DEX: 9 | END: 9 | INT: 8 | AWR: 8 | CHA: 7 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "Use the Scroll of Fireball to accidentally set the woods on fire and then try to put it out with a Questionable Red Potion"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to get the Insecure Mimic to stop disguising itself as a wobbly bar stool\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 6 | DEX: 5 | END: 5 | INT: 5 | AWR: 6 | CHA: 8 | LCK: 4\nRaw D20 Roll: 16",
+        "action": "Try to give the Insecure Mimic a confidence boost by telling it it's a great bar stool and offer to buy it a drink"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get to the top of Mount Inconvenience without using the stairs\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 7 | END: 7 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "Use the Tactical Pocket Sand to create a sandstorm and then try to climb the mountain using only a Slightly Used Broadsword"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help the Overencumbered Skeleton get rid of its rusty spoons\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 9 | DEX: 6 | END: 8 | INT: 6 | AWR: 7 | CHA: 8 | LCK: 5\nRaw D20 Roll: 10",
+        "action": "Offer to trade the skeleton a set of new spoons for its old ones and then try to teach it how to knit"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to stop the Dramatic Slime from overacting\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 7 | DEX: 5 | END: 6 | INT: 5 | AWR: 6 | CHA: 9 | LCK: 4\nRaw D20 Roll: 12",
+        "action": "Use the Amulet of Pointless Advice to give the slime terrible acting tips and then try to distract it with a Caffeinated Blue Elixir"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get the Mayor to admit to his corruption\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 8 | DEX: 8 | END: 8 | INT: 7 | AWR: 8 | CHA: 9 | LCK: 6\nRaw D20 Roll: 18",
+        "action": "Use the Ring of Mild Convenience to make the Mayor's monocle fall into his soup and then try to blackmail him into confessing"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Archmage Fizzlebang with his tea temperature\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 7 | DEX: 9 | END: 9 | INT: 8 | AWR: 8 | CHA: 7 | LCK: 6\nRaw D20 Roll: 14",
+        "action": "Use the Staff of Splinters to stir the tea and then try to convince the Archmage to use a thermometer instead of magic"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to get the trees in the Muttering Woods to stop judging fashion\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 6 | DEX: 7 | END: 7 | INT: 5 | AWR: 6 | CHA: 8 | LCK: 4\nRaw D20 Roll: 10",
+        "action": "Try to convince the trees that fashion is subjective and then model a Vegan Leather Tunic to show them the error of their ways"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a night in the Muttering Woods without any equipment\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 5 | DEX: 6 | END: 6 | INT: 4 | AWR: 5 | CHA: 7 | LCK: 3\nRaw D20 Roll: 12",
+        "action": "Use the Lucky D20 Pendant to try and find a natural source of light and then attempt to start a fire using only rocks"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get the bandit king to surrender without a fight\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 8 | DEX: 8 | END: 8 | INT: 6 | AWR: 7 | CHA: 9 | LCK: 5\nRaw D20 Roll: 16",
+        "action": "Use the Tactical Frying Pan to cook a meal for the bandit king and then try to negotiate a peaceful resolution"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to make the Insecure Mimic feel more confident\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 7 | DEX: 6 | END: 6 | INT: 5 | AWR: 6 | CHA: 8 | LCK: 4\nRaw D20 Roll: 14",
+        "action": "Give the Insecure Mimic a pep talk and then try to teach it how to do a funny dance to boost its self-esteem"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help the Overencumbered Skeleton get rid of its chafing chainmail\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 9 | DEX: 7 | END: 8 | INT: 6 | AWR: 7 | CHA: 8 | LCK: 5\nRaw D20 Roll: 10",
+        "action": "Offer to trade the skeleton a new set of armor for its old chainmail and then try to give it a massage to soothe its chafing"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to stop the Dramatic Slime from reacting like a soap opera actor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 8 | DEX: 8 | END: 8 | INT: 7 | AWR: 8 | CHA: 9 | LCK: 6\nRaw D20 Roll: 18",
+        "action": "Use the Amulet of Pointless Advice to give the slime terrible acting tips and then try to distract it with a Questionable Red Potion"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get the Mayor to admit to his love of knitting\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 7 | DEX: 9 | END: 9 | INT: 8 | AWR: 8 | CHA: 7 | LCK: 6\nRaw D20 Roll: 14",
+        "action": "Use the Ring of Mild Convenience to make the Mayor's knitting needles appear out of thin air and then try to blackmail him into confessing his love of knitting"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Archmage Fizzlebang with his tea temperature\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 6 | DEX: 8 | END: 8 | INT: 7 | AWR: 7 | CHA: 8 | LCK: 5\nRaw D20 Roll: 12",
+        "action": "Use the Staff of Splinters to stir the tea and then try to convince the Archmage to use a thermometer instead of magic"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to get the trees in the Muttering Woods to stop judging fashion\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 5 | DEX: 6 | END: 6 | INT: 5 | AWR: 6 | CHA: 8 | LCK: 4\nRaw D20 Roll: 10",
+        "action": "Try to convince the trees that fashion is subjective and then model a Hand-me-down Robes to show them the error of their ways"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a night in the Muttering Woods with only a Tactical Frying Pan\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 6 | DEX: 5 | END: 5 | INT: 4 | AWR: 5 | CHA: 7 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "Use the Tactical Frying Pan to cook a meal and then try to use it as a makeshift shield to defend against any potential threats"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get the bandit king to surrender without a fight\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 9 | DEX: 8 | END: 8 | INT: 7 | AWR: 8 | CHA: 9 | LCK: 6\nRaw D20 Roll: 16",
+        "action": "Use the Lucky D20 Pendant to try and find a natural source of light and then attempt to start a fire using only rocks to cook a meal for the bandit king"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 7 | DEX: 6 | END: 7 | INT: 5 | AWR: 6 | CHA: 8 | LCK: 5\nRaw D20 Roll: 12",
+        "action": "Use the Scroll of Fireball to accidentally set the village on fire and then try to put it out with a Questionable Red Potion while searching for the glowing MacGuffin"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find the glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 4 | AWR: 5 | CHA: 3 | LCK: 9\nRaw D20 Roll: 14",
+        "action": "I attempt to sneak past the goblin while making silly faces at the judging trees"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 75, Level: 3\nStats: STR: 5 | DEX: 8 | END: 6 | INT: 7 | AWR: 4 | CHA: 6 | LCK: 5\nRaw D20 Roll: 10",
+        "action": "I use my Tactical Frying Pan to deflect the goblin and then trip over my own feet"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 40, Level: 7\nStats: STR: 9 | DEX: 5 | END: 8 | INT: 3 | AWR: 6 | CHA: 4 | LCK: 7\nRaw D20 Roll: 18",
+        "action": "I try to convince the skeleton to drop its rusty spoons and then offer to help Olga with her knitting"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 6 | DEX: 9 | END: 5 | INT: 8 | AWR: 7 | CHA: 5 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "I challenge Fizzlebang to a tea-brewing contest to prove my worth as a friend"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to get the Insecure Mimic to stop disguising itself as a wobbly bar stool\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 60, Level: 4\nStats: STR: 7 | DEX: 4 | END: 9 | INT: 5 | AWR: 3 | CHA: 8 | LCK: 4\nRaw D20 Roll: 16",
+        "action": "I try to give the mimic a pep talk and then accidentally sit on it"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help the Mayor with his corrupt dealings\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 80, Level: 6\nStats: STR: 4 | DEX: 7 | END: 6 | INT: 9 | AWR: 5 | CHA: 7 | LCK: 8\nRaw D20 Roll: 15",
+        "action": "I use my Ring of Mild Convenience to 'accidentally' drop the Mayor's monocle in his soup"
+    },
+    {
+        "context": "Story Context\nMain Objective: Confront the bandit king at the top of Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 30, Level: 8\nStats: STR: 10 | DEX: 3 | END: 9 | INT: 2 | AWR: 8 | CHA: 6 | LCK: 5\nRaw D20 Roll: 6",
+        "action": "I try to outshout the Orc Life Coach with my own motivational quotes while stumbling up the stairs"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to stop the Dramatic Slime from overacting\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 45, Level: 2\nStats: STR: 3 | DEX: 10 | END: 4 | INT: 6 | AWR: 9 | CHA: 2 | LCK: 10\nRaw D20 Roll: 20",
+        "action": "I attempt to reason with the slime while using my Tactical Pocket Sand to blind it"
+    },
+    {
+        "context": "Story Context\nMain Objective: Rest and recover in a cozy location\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 20, Level: 1\nStats: STR: 2 | DEX: 5 | END: 3 | INT: 4 | AWR: 6 | CHA: 3 | LCK: 9\nRaw D20 Roll: 11",
+        "action": "I ask Olga to knit me a cozy blanket and then take a nap in the tavern"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the secrets of the Questionable Red Potion\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 95, Level: 10\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 10 | AWR: 9 | CHA: 4 | LCK: 7\nRaw D20 Roll: 13",
+        "action": "I try to brew a new potion using the Questionable Red Potion as an ingredient and then taste it"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Sir Lancelittle find his way out of the Muttering Woods\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 55, Level: 6\nStats: STR: 9 | DEX: 5 | END: 8 | INT: 3 | AWR: 6 | CHA: 7 | LCK: 4\nRaw D20 Roll: 8",
+        "action": "I use my Amulet of Pointless Advice to give Sir Lancelittle terrible directions"
+    },
+    {
+        "context": "Story Context\nMain Objective: Defeat the Unionized Goblin without interrupting its 15-minute breaks\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 70, Level: 5\nStats: STR: 6 | DEX: 8 | END: 7 | INT: 5 | AWR: 4 | CHA: 9 | LCK: 6\nRaw D20 Roll: 17",
+        "action": "I challenge the goblin to a dance-off during its breaks"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to make the Caffeinated Blue Elixir stop making my teeth vibrate\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 85, Level: 9\nStats: STR: 5 | DEX: 9 | END: 6 | INT: 8 | AWR: 7 | CHA: 5 | LCK: 8\nRaw D20 Roll: 19",
+        "action": "I ask Fizzlebang to brew an antidote using his cosmic magic"
+    },
+    {
+        "context": "Story Context\nMain Objective: Convince the 'evil' necromancer to join a book club\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 65, Level: 8\nStats: STR: 7 | DEX: 4 | END: 9 | INT: 6 | AWR: 5 | CHA: 8 | LCK: 3\nRaw D20 Roll: 4",
+        "action": "I try to persuade the necromancer by offering to lend them my favorite book"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive the steep stairs of Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 40, Level: 3\nStats: STR: 4 | DEX: 6 | END: 5 | INT: 7 | AWR: 3 | CHA: 6 | LCK: 10\nRaw D20 Roll: 7",
+        "action": "I use my Staff of Splinters to help me climb the stairs"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Iron Thumb Olga with her knitting\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 9 | DEX: 5 | END: 8 | INT: 4 | AWR: 6 | CHA: 7 | LCK: 5\nRaw D20 Roll: 14",
+        "action": "I offer to model Olga's knitting creations and then trip on the yarn"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to stop the goblin camps on Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 50, Level: 7\nStats: STR: 8 | DEX: 3 | END: 9 | INT: 5 | AWR: 4 | CHA: 6 | LCK: 8\nRaw D20 Roll: 12",
+        "action": "I challenge the goblin to a battle of wits using my Lucky D20 Pendant"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the secrets of the Scroll of Fireball\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 80, Level: 10\nStats: STR: 6 | DEX: 9 | END: 7 | INT: 10 | AWR: 8 | CHA: 5 | LCK: 6\nRaw D20 Roll: 16",
+        "action": "I attempt to read the scroll outdoors despite the warning"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Mayor Bartholomew with his insurance claims\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 60, Level: 5\nStats: STR: 5 | DEX: 7 | END: 6 | INT: 8 | AWR: 5 | CHA: 9 | LCK: 4\nRaw D20 Roll: 10",
+        "action": "I use my Amulet of Pointless Advice to give the Mayor terrible financial advice"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to make the Dramatic Slime less dramatic\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 75, Level: 9\nStats: STR: 10 | DEX: 4 | END: 9 | INT: 6 | AWR: 7 | CHA: 8 | LCK: 5\nRaw D20 Roll: 15",
+        "action": "I challenge the slime to a acting competition"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Sir Lancelittle find his lost horse\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 85, Level: 8\nStats: STR: 9 | DEX: 5 | END: 8 | INT: 4 | AWR: 6 | CHA: 7 | LCK: 7\nRaw D20 Roll: 13",
+        "action": "I use my Ring of Mild Convenience to 'accidentally' lead Sir Lancelittle on a wild goose chase"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive the rebuilt tavern's grand reopening\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 95, Level: 10\nStats: STR: 7 | DEX: 9 | END: 6 | INT: 9 | AWR: 8 | CHA: 6 | LCK: 9\nRaw D20 Roll: 20",
+        "action": "I attempt to break the world record for most mugs of ale consumed in one sitting"
+    },
+    {
+        "context": "Story Context\nMain Objective: Surviving a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 12 | END: 10 | INT: 6 | AWR: 8 | CHA: 14 | LCK: 10\nRaw D20 Roll: 14",
+        "action": "I attempt to negotiate with the goblin using my CHA score and offer it a Slightly Used Broadsword in exchange for a peaceful resolution"
+    },
+    {
+        "context": "Story Context\nMain Objective: Finding a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 80, Level: 7\nStats: STR: 14 | DEX: 10 | END: 12 | INT: 8 | AWR: 10 | CHA: 12 | LCK: 12\nRaw D20 Roll: 7",
+        "action": "I ask Olga for directions while trying to impress her with my Hand-me-down Robes and Ring of Mild Convenience"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigating Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 30, Level: 3\nStats: STR: 6 | DEX: 8 | END: 8 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 8\nRaw D20 Roll: 18",
+        "action": "I use my Tactical Frying Pan to deflect the skeleton's rusty spoons while climbing the steep stairs"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discovering the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 10 | DEX: 14 | END: 14 | INT: 12 | AWR: 12 | CHA: 10 | LCK: 14\nRaw D20 Roll: 5",
+        "action": "I challenge Fizzlebang to a magic duel using my Scroll of Fireball, but I read the warning label first"
+    },
+    {
+        "context": "Story Context\nMain Objective: Retrieving a Questionable Red Potion from the tavern's storage\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 8 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 10\nRaw D20 Roll: 12",
+        "action": "I try to sneak past the mimic while disguising myself with a Vegan Leather Tunic and Lucky D20 Pendant"
+    },
+    {
+        "context": "Story Context\nMain Objective: Surviving a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 12 | DEX: 12 | END: 12 | INT: 8 | AWR: 10 | CHA: 14 | LCK: 12\nRaw D20 Roll: 15",
+        "action": "I use my Tactical Pocket Sand to blind the goblin and then attempt to reason with it using my CHA score"
+    },
+    {
+        "context": "Story Context\nMain Objective: Finding a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 70, Level: 8\nStats: STR: 14 | DEX: 14 | END: 14 | INT: 10 | AWR: 12 | CHA: 12 | LCK: 14\nRaw D20 Roll: 10",
+        "action": "I try to out-act the Dramatic Slime using my best soap opera impressions and Amulet of Pointless Advice"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigating Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 20, Level: 2\nStats: STR: 4 | DEX: 6 | END: 6 | INT: 2 | AWR: 4 | CHA: 8 | LCK: 6\nRaw D20 Roll: 20",
+        "action": "I use my Staff of Splinters to deflect the Orc's motivational quotes and then try to climb the stairs"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discovering the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 100, Level: 10\nStats: STR: 12 | DEX: 16 | END: 16 | INT: 14 | AWR: 14 | CHA: 12 | LCK: 16\nRaw D20 Roll: 16",
+        "action": "I challenge Fizzlebang to a tea-brewing contest using my knowledge of INT and AWR scores"
+    },
+    {
+        "context": "Story Context\nMain Objective: Retrieving a Caffeinated Blue Elixir from the tavern's storage\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 10 | DEX: 12 | END: 12 | INT: 8 | AWR: 10 | CHA: 14 | LCK: 12\nRaw D20 Roll: 8",
+        "action": "I attempt to distract the mimic with a funny joke and then grab the elixir"
+    },
+    {
+        "context": "Story Context\nMain Objective: Surviving a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 30, Level: 3\nStats: STR: 6 | DEX: 8 | END: 8 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 8\nRaw D20 Roll: 4",
+        "action": "I use my Chafing Chainmail to protect myself from the goblin's attacks and then try to reason with it"
+    },
+    {
+        "context": "Story Context\nMain Objective: Finding a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 14 | DEX: 14 | END: 14 | INT: 12 | AWR: 12 | CHA: 12 | LCK: 14\nRaw D20 Roll: 12",
+        "action": "I ask Olga to join me on my quest and offer her a share of the MacGuffin's power"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigating Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 8 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 10\nRaw D20 Roll: 6",
+        "action": "I use my Tactical Frying Pan to cook the skeleton's rusty spoons and then try to climb the stairs"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discovering the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 12 | DEX: 14 | END: 14 | INT: 10 | AWR: 12 | CHA: 12 | LCK: 14\nRaw D20 Roll: 14",
+        "action": "I challenge Fizzlebang to a game of wits using my INT and AWR scores"
+    },
+    {
+        "context": "Story Context\nMain Objective: Retrieving a Questionable Red Potion from the tavern's storage\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 10 | DEX: 12 | END: 12 | INT: 8 | AWR: 10 | CHA: 14 | LCK: 12\nRaw D20 Roll: 10",
+        "action": "I attempt to outsmart the mimic using my INT score and then grab the potion"
+    },
+    {
+        "context": "Story Context\nMain Objective: Surviving a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 20, Level: 2\nStats: STR: 4 | DEX: 6 | END: 6 | INT: 2 | AWR: 4 | CHA: 8 | LCK: 6\nRaw D20 Roll: 2",
+        "action": "I use my Slightly Used Broadsword to deflect the goblin's attacks and then try to reason with it"
+    },
+    {
+        "context": "Story Context\nMain Objective: Finding a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 10 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 10\nRaw D20 Roll: 18",
+        "action": "I try to out-act the Dramatic Slime using my best soap opera impressions and then attack it with my Staff of Splinters"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigating Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 14 | DEX: 14 | END: 14 | INT: 10 | AWR: 12 | CHA: 12 | LCK: 14\nRaw D20 Roll: 12",
+        "action": "I use my Tactical Frying Pan to deflect the Orc's motivational quotes and then try to climb the stairs"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discovering the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 12 | DEX: 12 | END: 12 | INT: 8 | AWR: 10 | CHA: 12 | LCK: 12\nRaw D20 Roll: 6",
+        "action": "I challenge Fizzlebang to a magic duel using my Scroll of Fireball, but I read the warning label first"
+    },
+    {
+        "context": "Story Context\nMain Objective: Retrieving a Caffeinated Blue Elixir from the tavern's storage\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 8 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 10\nRaw D20 Roll: 20",
+        "action": "I attempt to distract the mimic with a funny joke and then grab the elixir"
+    },
+    {
+        "context": "Story Context\nMain Objective: Surviving a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 14 | DEX: 16 | END: 16 | INT: 12 | AWR: 14 | CHA: 14 | LCK: 16\nRaw D20 Roll: 16",
+        "action": "I use my Chafing Chainmail to protect myself from the goblin's attacks and then try to reason with it using my CHA score"
+    },
+    {
+        "context": "Story Context\nMain Objective: Finding a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 12 | DEX: 12 | END: 12 | INT: 8 | AWR: 10 | CHA: 12 | LCK: 12\nRaw D20 Roll: 10",
+        "action": "I ask Olga to join me on my quest and offer her a share of the MacGuffin's power"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigating Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 10 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 10\nRaw D20 Roll: 8",
+        "action": "I use my Tactical Frying Pan to cook the skeleton's rusty spoons and then try to climb the stairs"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 4 | END: 6 | INT: 3 | AWR: 7 | CHA: 9 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "Try to negotiate with the Unionized Goblin using my Chaotic Charisma"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 80, Level: 3\nStats: STR: 5 | DEX: 9 | END: 8 | INT: 2 | AWR: 4 | CHA: 6 | LCK: 10\nRaw D20 Roll: 7",
+        "action": "Use my Tactical Frying Pan to deflect the goblin"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 30, Level: 2\nStats: STR: 3 | DEX: 6 | END: 4 | INT: 8 | AWR: 5 | CHA: 7 | LCK: 1\nRaw D20 Roll: 18",
+        "action": "Try to befriend the Dramatic Slime with my Lucky D20 Pendant"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 9 | DEX: 3 | END: 7 | INT: 1 | AWR: 8 | CHA: 5 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "Use my Staff of Splinters to trip the Overencumbered Skeleton"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to get Archmage Fizzlebang's perfect tea temperature\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 8\nStats: STR: 2 | DEX: 5 | END: 9 | INT: 10 | AWR: 6 | CHA: 4 | LCK: 8\nRaw D20 Roll: 15",
+        "action": "Ask Archmage Fizzlebang about his tea-making secrets"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get to the tavern before it gets rebuilt again\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 6 | DEX: 8 | END: 5 | INT: 9 | AWR: 3 | CHA: 2 | LCK: 9\nRaw D20 Roll: 10",
+        "action": "Run to the tavern as fast as I can"
+    },
+    {
+        "context": "Story Context\nMain Objective: Defeat the Unionized Goblin without interrupting its breaks\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 4 | DEX: 7 | END: 6 | INT: 5 | AWR: 9 | CHA: 8 | LCK: 3\nRaw D20 Roll: 6",
+        "action": "Use my Tactical Pocket Sand to blind the Unionized Goblin during its break"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Iron Thumb Olga with her knitting\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 20, Level: 1\nStats: STR: 10 | DEX: 2 | END: 3 | INT: 4 | AWR: 1 | CHA: 6 | LCK: 5\nRaw D20 Roll: 19",
+        "action": "Offer to hold the yarn for Iron Thumb Olga"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a use for the Questionable Red Potion\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 4 | END: 6 | INT: 3 | AWR: 7 | CHA: 9 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "Drink the Questionable Red Potion to see what happens"
+    },
+    {
+        "context": "Story Context\nMain Objective: Confront the bandit king on Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 80, Level: 9\nStats: STR: 9 | DEX: 3 | END: 7 | INT: 1 | AWR: 8 | CHA: 5 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "Use my Slightly Used Broadsword to deflect the Orc Life Coach's motivational quotes"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get the Amulet of Pointless Advice from the tavern\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 5 | DEX: 9 | END: 8 | INT: 2 | AWR: 4 | CHA: 6 | LCK: 10\nRaw D20 Roll: 7",
+        "action": "Bribe the bartender for the Amulet of Pointless Advice"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Archmage Fizzlebang with his tea-making\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 8\nStats: STR: 2 | DEX: 5 | END: 9 | INT: 10 | AWR: 6 | CHA: 4 | LCK: 8\nRaw D20 Roll: 15",
+        "action": "Use my knowledge of INT to help Archmage Fizzlebang fine-tune his tea temperature"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find the Hand-me-down Robes in the tavern\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 20, Level: 1\nStats: STR: 10 | DEX: 2 | END: 3 | INT: 4 | AWR: 1 | CHA: 6 | LCK: 5\nRaw D20 Roll: 19",
+        "action": "Search the tavern for the Hand-me-down Robes"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive the steep stairs of Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: None\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 6 | DEX: 8 | END: 5 | INT: 9 | AWR: 3 | CHA: 2 | LCK: 9\nRaw D20 Roll: 10",
+        "action": "Use my END to climb the steep stairs without getting tired"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the secret of the Muttering Woods\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 4 | DEX: 7 | END: 6 | INT: 5 | AWR: 9 | CHA: 8 | LCK: 3\nRaw D20 Roll: 6",
+        "action": "Listen to the trees' judgments on my fashion sense"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get the Scroll of Fireball from the tavern\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 4 | END: 6 | INT: 3 | AWR: 7 | CHA: 9 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "Trade my Tactical Frying Pan for the Scroll of Fireball"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a use for the Caffeinated Blue Elixir\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\n\nPlayer Context\nHP: 80, Level: 9\nStats: STR: 9 | DEX: 3 | END: 7 | INT: 1 | AWR: 8 | CHA: 5 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "Drink the Caffeinated Blue Elixir to see what happens"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Sir Lancelittle find his way\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: None\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 5 | DEX: 9 | END: 8 | INT: 2 | AWR: 4 | CHA: 6 | LCK: 10\nRaw D20 Roll: 7",
+        "action": "Use my knowledge of AWR to guide Sir Lancelittle"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get the Ring of Mild Convenience from the tavern\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 90, Level: 8\nStats: STR: 2 | DEX: 5 | END: 9 | INT: 10 | AWR: 6 | CHA: 4 | LCK: 8\nRaw D20 Roll: 15",
+        "action": "Bargain with the bartender for the Ring of Mild Convenience"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find the Vegan Leather Tunic in the tavern\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 20, Level: 1\nStats: STR: 10 | DEX: 2 | END: 3 | INT: 4 | AWR: 1 | CHA: 6 | LCK: 5\nRaw D20 Roll: 19",
+        "action": "Search the tavern for the Vegan Leather Tunic"
+    },
+    {
+        "context": "Story Context\nMain Objective: Confront the Insecure Mimic\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 4 | END: 6 | INT: 3 | AWR: 7 | CHA: 9 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "Try to reassure the Insecure Mimic that it's a good wobbly bar stool"
+    },
+    {
+        "context": "Main Objective: Find the glowing MacGuffin for the Mayor\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 4 | END: 6 | INT: 3 | AWR: 5 | CHA: 7 | LCK: 9\nRaw D20 Roll: 14",
+        "action": "I approach Mayor Bartholomew and ask him about the MacGuffin while trying to stifle a laugh at his ridiculous mustache"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\nHP: 20, Level: 2\nStats: STR: 5 | DEX: 8 | END: 4 | INT: 2 | AWR: 3 | CHA: 6 | LCK: 1\nRaw D20 Roll: 18",
+        "action": "I grab the Tactical Frying Pan and prepare to defend myself against the goblin while shouting 'Not again!'"
+    },
+    {
+        "context": "Main Objective: Navigate Mount Inconvenience to confront a bandit king\nLocation: Mount Inconvenience\nEnemy: None\nNPC: Sir Lancelittle\nHP: 80, Level: 8\nStats: STR: 9 | DEX: 6 | END: 8 | INT: 4 | AWR: 7 | CHA: 5 | LCK: 3\nRaw D20 Roll: 12",
+        "action": "I follow Sir Lancelittle up the steep stairs of Mount Inconvenience while face-palming at his terrible sense of direction"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer's true intentions\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\nHP: 40, Level: 4\nStats: STR: 3 | DEX: 9 | END: 5 | INT: 6 | AWR: 4 | CHA: 8 | LCK: 2\nRaw D20 Roll: 15",
+        "action": "I try to reason with the Dramatic Slime while it overacts and monologues about its feelings"
+    },
+    {
+        "context": "Main Objective: Find a way to get the Insecure Mimic to stop disguising itself as a bar stool\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Iron Thumb Olga\nHP: 60, Level: 6\nStats: STR: 7 | DEX: 5 | END: 7 | INT: 5 | AWR: 6 | CHA: 4 | LCK: 8\nRaw D20 Roll: 10",
+        "action": "I ask Iron Thumb Olga to help me negotiate with the Insecure Mimic while she secretly knits a scarf"
+    },
+    {
+        "context": "Main Objective: Help Archmage Fizzlebang with his tea temperature\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 30, Level: 3\nStats: STR: 2 | DEX: 7 | END: 3 | INT: 9 | AWR: 5 | CHA: 3 | LCK: 6\nRaw D20 Roll: 19",
+        "action": "I use the Staff of Splinters to stir Archmage Fizzlebang's tea while he uses cosmic magic to adjust the temperature"
+    },
+    {
+        "context": "Main Objective: Defeat the Overencumbered Skeleton\nLocation: Muttering Woods\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\nHP: 90, Level: 9\nStats: STR: 10 | DEX: 3 | END: 9 | INT: 1 | AWR: 8 | CHA: 2 | LCK: 5\nRaw D20 Roll: 16",
+        "action": "I attack the Overencumbered Skeleton with the Slightly Used Broadsword while it refuses to drop its rusty spoons"
+    },
+    {
+        "context": "Main Objective: Take a nap in the cozy tavern\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\nHP: 100, Level: 10\nStats: STR: 6 | DEX: 8 | END: 10 | INT: 7 | AWR: 9 | CHA: 6 | LCK: 4\nRaw D20 Roll: 7",
+        "action": "I curl up on a comfy chair and take a nap while the tavern is being rebuilt around me"
+    },
+    {
+        "context": "Main Objective: Find the Questionable Red Potion's effects\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\nHP: 40, Level: 4\nStats: STR: 4 | DEX: 6 | END: 5 | INT: 8 | AWR: 3 | CHA: 9 | LCK: 1\nRaw D20 Roll: 13",
+        "action": "I drink the Questionable Red Potion and wait for its effects while making a funny face"
+    },
+    {
+        "context": "Main Objective: Defeat the Orc Life Coach\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\nHP: 70, Level: 7\nStats: STR: 8 | DEX: 4 | END: 6 | INT: 2 | AWR: 6 | CHA: 5 | LCK: 9\nRaw D20 Roll: 11",
+        "action": "I engage in a battle of wits with the Orc Life Coach while it shouts motivational quotes at me"
+    },
+    {
+        "context": "Main Objective: Navigate the Muttering Woods without getting judged by the trees\nLocation: Muttering Woods\nEnemy: None\nNPC: None\nHP: 50, Level: 5\nStats: STR: 5 | DEX: 7 | END: 4 | INT: 6 | AWR: 5 | CHA: 8 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I wear the Vegan Leather Tunic and try to blend in with the trees while they judge my fashion sense"
+    },
+    {
+        "context": "Main Objective: Help Iron Thumb Olga with her knitting\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 60, Level: 6\nStats: STR: 9 | DEX: 3 | END: 7 | INT: 4 | AWR: 6 | CHA: 5 | LCK: 8\nRaw D20 Roll: 10",
+        "action": "I assist Iron Thumb Olga with her knitting while she tries to keep it a secret from the rest of the village"
+    },
+    {
+        "context": "Main Objective: Find the Caffeinated Blue Elixir's effects\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\nHP: 80, Level: 8\nStats: STR: 6 | DEX: 8 | END: 9 | INT: 7 | AWR: 8 | CHA: 4 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "I drink the Caffeinated Blue Elixir and wait for its effects while my teeth start vibrating"
+    },
+    {
+        "context": "Main Objective: Confront the bandit king on Mount Inconvenience\nLocation: Mount Inconvenience\nEnemy: None\nNPC: Sir Lancelittle\nHP: 90, Level: 9\nStats: STR: 10 | DEX: 5 | END: 10 | INT: 3 | AWR: 9 | CHA: 6 | LCK: 5\nRaw D20 Roll: 16",
+        "action": "I follow Sir Lancelittle to the top of Mount Inconvenience while he gets us lost in the process"
+    },
+    {
+        "context": "Main Objective: Get the Amulet of Pointless Advice to give useful advice\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\nHP: 40, Level: 4\nStats: STR: 3 | DEX: 9 | END: 5 | INT: 8 | AWR: 4 | CHA: 7 | LCK: 2\nRaw D20 Roll: 15",
+        "action": "I put on the Amulet of Pointless Advice and ask for advice while it gives me ridiculous suggestions"
+    },
+    {
+        "context": "Main Objective: Use the Scroll of Fireball without reading it indoors\nLocation: Muttering Woods\nEnemy: None\nNPC: None\nHP: 60, Level: 6\nStats: STR: 7 | DEX: 5 | END: 7 | INT: 6 | AWR: 6 | CHA: 4 | LCK: 8\nRaw D20 Roll: 11",
+        "action": "I carefully take the Scroll of Fireball outside and read it while hoping it doesn't backfire"
+    },
+    {
+        "context": "Main Objective: Defeat the Unionized Goblin during its 15-minute break\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\nHP: 70, Level: 7\nStats: STR: 8 | DEX: 4 | END: 6 | INT: 2 | AWR: 6 | CHA: 5 | LCK: 9\nRaw D20 Roll: 13",
+        "action": "I attack the Unionized Goblin during its break while it shouts 'I'm on my break, mate!'"
+    },
+    {
+        "context": "Main Objective: Find a use for the Tactical Pocket Sand\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\nHP: 50, Level: 5\nStats: STR: 5 | DEX: 7 | END: 4 | INT: 6 | AWR: 5 | CHA: 8 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I use the Tactical Pocket Sand to blind an imaginary enemy while making 'whooshing' sounds"
+    },
+    {
+        "context": "Main Objective: Get the Lucky D20 Pendant to give me good luck\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\nHP: 80, Level: 8\nStats: STR: 6 | DEX: 8 | END: 9 | INT: 7 | AWR: 8 | CHA: 4 | LCK: 10\nRaw D20 Roll: 20",
+        "action": "I put on the Lucky D20 Pendant and roll a dice while hoping for a critical success"
+    },
+    {
+        "context": "Main Objective: Help Mayor Bartholomew find his monocle\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\nHP: 30, Level: 3\nStats: STR: 2 | DEX: 7 | END: 3 | INT: 9 | AWR: 5 | CHA: 3 | LCK: 6\nRaw D20 Roll: 19",
+        "action": "I search the tavern for Mayor Bartholomew's monocle while he drops it in his soup again"
+    },
+    {
+        "context": "Main Objective: Use the Ring of Mild Convenience to make my life easier\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\nHP: 100, Level: 10\nStats: STR: 10 | DEX: 10 | END: 10 | INT: 10 | AWR: 10 | CHA: 10 | LCK: 10\nRaw D20 Roll: 1",
+        "action": "I put on the Ring of Mild Convenience and wait for its effects while nothing particularly convenient happens"
+    },
+    {
+        "context": "Main Objective: Find the glowing MacGuffin for the Mayor\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 5 | END: 6 | INT: 4 | AWR: 7 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I try to distract the Mayor with a funny joke while searching his office for clues"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\nHP: 80, Level: 7\nStats: STR: 9 | DEX: 8 | END: 7 | INT: 5 | AWR: 6 | CHA: 4 | LCK: 9\nRaw D20 Roll: 18",
+        "action": "I use my Tactical Frying Pan to deflect the goblin's attacks while Olga tries to calm it down with her knitting"
+    },
+    {
+        "context": "Main Objective: Navigate Mount Inconvenience to confront the bandit king\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\nHP: 40, Level: 3\nStats: STR: 6 | DEX: 4 | END: 5 | INT: 3 | AWR: 8 | CHA: 6 | LCK: 2\nRaw D20 Roll: 10",
+        "action": "I attempt to take a selfie with the skeleton while it's distracted by its own rattling"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer's true intentions\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Archmage Fizzlebang\nHP: 90, Level: 9\nStats: STR: 7 | DEX: 9 | END: 8 | INT: 8 | AWR: 5 | CHA: 7 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "I use my Staff of Splinters to conduct an impromptu drama lesson with the slime"
+    },
+    {
+        "context": "Main Objective: Find a way to get the tavern rebuilt\nLocation: Oakhaven Village\nEnemy: None\nNPC: Sir Lancelittle\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 4 | AWR: 9 | CHA: 5 | LCK: 8\nRaw D20 Roll: 16",
+        "action": "I challenge Sir Lancelittle to a series of silly duels to win building materials"
+    },
+    {
+        "context": "Main Objective: Infiltrate the goblin camps on Mount Inconvenience\nLocation: Mount Inconvenience\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\nHP: 30, Level: 2\nStats: STR: 5 | DEX: 3 | END: 4 | INT: 2 | AWR: 6 | CHA: 8 | LCK: 1\nRaw D20 Roll: 6",
+        "action": "I disguise myself as a goblin and try to blend in with their morning stretches"
+    },
+    {
+        "context": "Main Objective: Retrieve a rare ingredient for the tavern's specialty dish\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Iron Thumb Olga\nHP: 70, Level: 8\nStats: STR: 9 | DEX: 7 | END: 6 | INT: 6 | AWR: 4 | CHA: 9 | LCK: 5\nRaw D20 Roll: 14",
+        "action": "I use my Lucky D20 Pendant to convince the mimic that it's a fashionable bar stool"
+    },
+    {
+        "context": "Main Objective: Help the 'evil' necromancer make friends\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 50, Level: 5\nStats: STR: 6 | DEX: 5 | END: 7 | INT: 8 | AWR: 3 | CHA: 6 | LCK: 9\nRaw D20 Roll: 10",
+        "action": "I organize a game night with the necromancer and the Archmage to play 'Mystic Mahjong'"
+    },
+    {
+        "context": "Main Objective: Confront the bandit king on Mount Inconvenience\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\nHP: 80, Level: 7\nStats: STR: 8 | DEX: 6 | END: 9 | INT: 5 | AWR: 7 | CHA: 8 | LCK: 4\nRaw D20 Roll: 18",
+        "action": "I use my Tactical Pocket Sand to blind the Orc while delivering a series of terrible dad jokes"
+    },
+    {
+        "context": "Main Objective: Retrieve a stolen Slightly Used Broadsword\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\nHP: 40, Level: 3\nStats: STR: 7 | DEX: 4 | END: 5 | INT: 3 | AWR: 9 | CHA: 5 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "I challenge the Mayor to a series of absurd mini-games to win back the sword"
+    },
+    {
+        "context": "Main Objective: Find the perfect tea blend for Archmage Fizzlebang\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 90, Level: 9\nStats: STR: 5 | DEX: 8 | END: 6 | INT: 9 | AWR: 4 | CHA: 7 | LCK: 8\nRaw D20 Roll: 16",
+        "action": "I use my knowledge of herbalism to create a bespoke tea blend for the Archmage"
+    },
+    {
+        "context": "Main Objective: Help Sir Lancelittle find his way out of the Muttering Woods\nLocation: Muttering Woods\nEnemy: None\nNPC: Sir Lancelittle\nHP: 60, Level: 6\nStats: STR: 9 | DEX: 5 | END: 7 | INT: 4 | AWR: 8 | CHA: 6 | LCK: 3\nRaw D20 Roll: 10",
+        "action": "I use my Ring of Mild Convenience to create a series of mildly useful compasses"
+    },
+    {
+        "context": "Main Objective: Participate in the Oakhaven Village talent show\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 50, Level: 5\nStats: STR: 6 | DEX: 7 | END: 5 | INT: 5 | AWR: 6 | CHA: 9 | LCK: 7\nRaw D20 Roll: 14",
+        "action": "I perform a dramatic reading of the village's phonebook while Olga accompanies me on the knitting-needle harmonica"
+    },
+    {
+        "context": "Main Objective: Stop a group of mischievous fairies from playing pranks on the villagers\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\nHP: 40, Level: 3\nStats: STR: 5 | DEX: 6 | END: 4 | INT: 3 | AWR: 9 | CHA: 8 | LCK: 2\nRaw D20 Roll: 6",
+        "action": "I use my Chafing Chainmail to create a series of uncomfortable fairy seats"
+    },
+    {
+        "context": "Main Objective: Retrieve a rare scroll from the bandit king's lair\nLocation: Mount Inconvenience\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\nHP: 70, Level: 8\nStats: STR: 8 | DEX: 6 | END: 8 | INT: 6 | AWR: 5 | CHA: 7 | LCK: 4\nRaw D20 Roll: 12",
+        "action": "I use my Scroll of Fireball to distract the goblin while I sneak past it"
+    },
+    {
+        "context": "Main Objective: Help the 'evil' necromancer with its gardening\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 60, Level: 6\nStats: STR: 7 | DEX: 5 | END: 6 | INT: 8 | AWR: 4 | CHA: 6 | LCK: 9\nRaw D20 Roll: 16",
+        "action": "I use my Staff of Splinters to create a series of wobbly but charming garden ornaments"
+    },
+    {
+        "context": "Main Objective: Participate in the Mount Inconvenience obstacle course\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\nHP: 50, Level: 5\nStats: STR: 9 | DEX: 4 | END: 7 | INT: 5 | AWR: 8 | CHA: 5 | LCK: 6\nRaw D20 Roll: 10",
+        "action": "I use my Tactical Frying Pan to sled down the mountain while avoiding the skeleton's rusty spoons"
+    },
+    {
+        "context": "Main Objective: Retrieve a stolen batch of Questionable Red Potion\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Mayor Bartholomew\nHP: 80, Level: 7\nStats: STR: 6 | DEX: 8 | END: 6 | INT: 4 | AWR: 7 | CHA: 9 | LCK: 5\nRaw D20 Roll: 14",
+        "action": "I use my Amulet of Pointless Advice to give the mimic a series of useless fashion tips"
+    },
+    {
+        "context": "Main Objective: Help Iron Thumb Olga with her knitting\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 5 | END: 7 | INT: 5 | AWR: 6 | CHA: 8 | LCK: 4\nRaw D20 Roll: 12",
+        "action": "I use my Lucky D20 Pendant to create a series of charming but useless knitting patterns"
+    },
+    {
+        "context": "Main Objective: Confront the 'evil' necromancer about its alleged evil plans\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 90, Level: 9\nStats: STR: 5 | DEX: 9 | END: 8 | INT: 9 | AWR: 3 | CHA: 7 | LCK: 8\nRaw D20 Roll: 18",
+        "action": "I use my Staff of Splinters to conduct an impromptu game of 'Necromancer's Apprentice' with the Archmage"
+    },
+    {
+        "context": "Main Objective: Participate in the Muttering Woods talent show\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Sir Lancelittle\nHP: 50, Level: 5\nStats: STR: 7 | DEX: 6 | END: 5 | INT: 4 | AWR: 9 | CHA: 6 | LCK: 3\nRaw D20 Roll: 10",
+        "action": "I use my Ring of Mild Convenience to create a series of mildly impressive but forgettable magic tricks"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find the glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I attempt to negotiate with the Unionized Goblin using my CHA score and offer it a Slightly Used Broadsword as a gift"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 75, Level: 3\nStats: STR: 9 | DEX: 5 | END: 8 | INT: 3 | AWR: 6 | CHA: 7 | LCK: 2\nRaw D20 Roll: 10",
+        "action": "I use my Tactical Frying Pan to deflect the goblin and then try to order a drink from the bar"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 7\nStats: STR: 6 | DEX: 8 | END: 9 | INT: 5 | AWR: 4 | CHA: 8 | LCK: 1\nRaw D20 Roll: 18",
+        "action": "I try to climb the steep stairs while wearing Chafing Chainmail and carrying a Staff of Splinters"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 7 | DEX: 9 | END: 6 | INT: 8 | AWR: 3 | CHA: 6 | LCK: 4\nRaw D20 Roll: 12",
+        "action": "I attempt to befriend the Dramatic Slime using my CHA score and offer it a Questionable Red Potion"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 60, Level: 4\nStats: STR: 5 | DEX: 7 | END: 4 | INT: 9 | AWR: 8 | CHA: 5 | LCK: 6\nRaw D20 Roll: 16",
+        "action": "I try to sit on the Insecure Mimic disguised as a wobbly bar stool and see if it gets upset"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 80, Level: 6\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I use my Tactical Pocket Sand to blind the goblin and then attempt to run away"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 50, Level: 8\nStats: STR: 6 | DEX: 8 | END: 9 | INT: 5 | AWR: 4 | CHA: 8 | LCK: 1\nRaw D20 Roll: 18",
+        "action": "I try to climb the steep stairs while listening to the Orc Life Coach's motivational quotes"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 70, Level: 5\nStats: STR: 7 | DEX: 9 | END: 6 | INT: 8 | AWR: 3 | CHA: 6 | LCK: 4\nRaw D20 Roll: 12",
+        "action": "I attempt to have a tea party with Archmage Fizzlebang and use my Ring of Mild Convenience to make the tea perfect"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 40, Level: 3\nStats: STR: 9 | DEX: 5 | END: 8 | INT: 3 | AWR: 6 | CHA: 7 | LCK: 2\nRaw D20 Roll: 10",
+        "action": "I try to persuade Mayor Bartholomew to give me a Vegan Leather Tunic as a reward"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 60, Level: 4\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I use my Hand-me-down Robes to try and sneak past the goblin"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 30, Level: 2\nStats: STR: 6 | DEX: 8 | END: 9 | INT: 5 | AWR: 4 | CHA: 8 | LCK: 1\nRaw D20 Roll: 18",
+        "action": "I attempt to take a nap on the steep stairs while wearing Chafing Chainmail"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 80, Level: 9\nStats: STR: 7 | DEX: 9 | END: 6 | INT: 8 | AWR: 3 | CHA: 6 | LCK: 4\nRaw D20 Roll: 12",
+        "action": "I use my Caffeinated Blue Elixir to try and energize the Dramatic Slime"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 50, Level: 6\nStats: STR: 5 | DEX: 7 | END: 4 | INT: 9 | AWR: 8 | CHA: 5 | LCK: 6\nRaw D20 Roll: 16",
+        "action": "I try to use my Amulet of Pointless Advice to get a hint about the Insecure Mimic's weakness"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 70, Level: 8\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I use my Lucky D20 Pendant to try and charm the goblin"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 5\nStats: STR: 6 | DEX: 8 | END: 9 | INT: 5 | AWR: 4 | CHA: 8 | LCK: 1\nRaw D20 Roll: 18",
+        "action": "I attempt to use my Scroll of Fireball to blast the Orc Life Coach"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 60, Level: 7\nStats: STR: 7 | DEX: 9 | END: 6 | INT: 8 | AWR: 3 | CHA: 6 | LCK: 4\nRaw D20 Roll: 12",
+        "action": "I try to use my Staff of Splinters to conduct a fake magic show for Archmage Fizzlebang"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 80, Level: 9\nStats: STR: 9 | DEX: 5 | END: 8 | INT: 3 | AWR: 6 | CHA: 7 | LCK: 2\nRaw D20 Roll: 10",
+        "action": "I attempt to intimidate Mayor Bartholomew using my STR score"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 50, Level: 4\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I use my Tactical Frying Pan to try and flip pancakes for Iron Thumb Olga"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 30, Level: 2\nStats: STR: 6 | DEX: 8 | END: 9 | INT: 5 | AWR: 4 | CHA: 8 | LCK: 1\nRaw D20 Roll: 18",
+        "action": "I attempt to use my Chafing Chainmail to slide down the steep stairs"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 70, Level: 6\nStats: STR: 7 | DEX: 9 | END: 6 | INT: 8 | AWR: 3 | CHA: 6 | LCK: 4\nRaw D20 Roll: 12",
+        "action": "I use my Questionable Red Potion to try and heal the Dramatic Slime"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 40, Level: 3\nStats: STR: 5 | DEX: 7 | END: 4 | INT: 9 | AWR: 8 | CHA: 5 | LCK: 6\nRaw D20 Roll: 16",
+        "action": "I try to use my Amulet of Pointless Advice to get a hint about the location of the glowing MacGuffin"
+    },
+    {
+        "context": "Main Objective: Find a glowing MacGuffin for the Mayor\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context:\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 4 | END: 6 | INT: 3 | AWR: 7 | CHA: 9 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "I trip on the welcome mat and face-plant in front of the Mayor, asking for a quest"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\n\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\n\nPlayer Context:\nHP: 75, Level: 3\nStats: STR: 5 | DEX: 8 | END: 4 | INT: 6 | AWR: 3 | CHA: 5 | LCK: 9\nRaw D20 Roll: 7",
+        "action": "I use my Tactical Frying Pan to deflect the goblin's attacks while Olga cheers me on"
+    },
+    {
+        "context": "Main Objective: Navigate Mount Inconvenience to confront a bandit king\n\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context:\nHP: 90, Level: 7\nStats: STR: 9 | DEX: 6 | END: 8 | INT: 4 | AWR: 5 | CHA: 7 | LCK: 1\nRaw D20 Roll: 18",
+        "action": "I take a break to enjoy the view, and the Orc Life Coach starts shouting motivational quotes at me"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer's true intentions\n\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context:\nHP: 40, Level: 2\nStats: STR: 3 | DEX: 5 | END: 7 | INT: 8 | AWR: 2 | CHA: 4 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "I ask Archmage Fizzlebang about the necromancer, and he offers me a cup of perfectly tempered tea"
+    },
+    {
+        "context": "Main Objective: Find a way to get down from Mount Inconvenience\n\nLocation: Mount Inconvenience\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Sir Lancelittle\n\nPlayer Context:\nHP: 60, Level: 4\nStats: STR: 6 | DEX: 7 | END: 5 | INT: 2 | AWR: 9 | CHA: 8 | LCK: 3\nRaw D20 Roll: 15",
+        "action": "I try to reason with the Dramatic Slime, but it overacts and Sir Lancelittle gets lost"
+    },
+    {
+        "context": "Main Objective: Get a new sword from Iron Thumb Olga\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context:\nHP: 80, Level: 6\nStats: STR: 7 | DEX: 3 | END: 9 | INT: 5 | AWR: 4 | CHA: 6 | LCK: 8\nRaw D20 Roll: 10",
+        "action": "I ask Olga for a sword, but she tries to sell me a knitting pattern instead"
+    },
+    {
+        "context": "Main Objective: Stop the goblins from unionizing\n\nLocation: Muttering Woods\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context:\nHP: 45, Level: 1\nStats: STR: 4 | DEX: 6 | END: 3 | INT: 9 | AWR: 1 | CHA: 2 | LCK: 5\nRaw D20 Roll: 6",
+        "action": "I attempt to negotiate with the goblins, but they demand better working conditions"
+    },
+    {
+        "context": "Main Objective: Find a cure for the Questionable Red Potion's side effects\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context:\nHP: 70, Level: 8\nStats: STR: 8 | DEX: 5 | END: 6 | INT: 7 | AWR: 3 | CHA: 9 | LCK: 4\nRaw D20 Roll: 11",
+        "action": "I ask Archmage Fizzlebang for help, and he prescribes me a dose of his special tea"
+    },
+    {
+        "context": "Main Objective: Reach the top of Mount Inconvenience\n\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context:\nHP: 55, Level: 9\nStats: STR: 9 | DEX: 4 | END: 7 | INT: 3 | AWR: 6 | CHA: 5 | LCK: 2\nRaw D20 Roll: 19",
+        "action": "I try to take a spoon from the skeleton, but it refuses to let go"
+    },
+    {
+        "context": "Main Objective: Help the 'evil' necromancer make friends\n\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context:\nHP: 65, Level: 10\nStats: STR: 6 | DEX: 8 | END: 5 | INT: 9 | AWR: 7 | CHA: 4 | LCK: 1\nRaw D20 Roll: 5",
+        "action": "I introduce the necromancer to Archmage Fizzlebang, and they bond over tea"
+    },
+    {
+        "context": "Main Objective: Defeat the Insecure Mimic\n\nLocation: Oakhaven Village\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: Sir Lancelittle\n\nPlayer Context:\nHP: 85, Level: 6\nStats: STR: 7 | DEX: 9 | END: 8 | INT: 2 | AWR: 5 | CHA: 6 | LCK: 3\nRaw D20 Roll: 16",
+        "action": "I use my Staff of Splinters to attack the mimic, but it gets insecure and starts doubting itself"
+    },
+    {
+        "context": "Main Objective: Find the legendary Lucky D20 Pendant\n\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context:\nHP: 95, Level: 5\nStats: STR: 5 | DEX: 6 | END: 4 | INT: 8 | AWR: 9 | CHA: 7 | LCK: 6\nRaw D20 Roll: 20",
+        "action": "I search the woods, and after a series of ridiculous events, I stumble upon the pendant"
+    },
+    {
+        "context": "Main Objective: Stop the bandit king's evil plans\n\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: Sir Lancelittle\n\nPlayer Context:\nHP: 60, Level: 4\nStats: STR: 8 | DEX: 5 | END: 6 | INT: 3 | AWR: 7 | CHA: 9 | LCK: 2\nRaw D20 Roll: 13",
+        "action": "I engage in a fierce battle with the Orc Life Coach, but Sir Lancelittle gets in the way"
+    },
+    {
+        "context": "Main Objective: Get a new set of armor from Iron Thumb Olga\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context:\nHP: 80, Level: 7\nStats: STR: 9 | DEX: 4 | END: 7 | INT: 5 | AWR: 6 | CHA: 8 | LCK: 1\nRaw D20 Roll: 9",
+        "action": "I ask Olga for armor, but she tries to sell me a set of knitting needles instead"
+    },
+    {
+        "context": "Main Objective: Survive the goblin's 15-minute break\n\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context:\nHP: 50, Level: 3\nStats: STR: 6 | DEX: 7 | END: 5 | INT: 2 | AWR: 4 | CHA: 6 | LCK: 8\nRaw D20 Roll: 12",
+        "action": "I try to negotiate with the goblin, but it takes a mandated break and starts playing a harmonica"
+    },
+    {
+        "context": "Main Objective: Find the legendary Slightly Used Broadsword\n\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context:\nHP: 70, Level: 8\nStats: STR: 7 | DEX: 6 | END: 8 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I search the woods, and after a series of wacky misadventures, I stumble upon the sword"
+    },
+    {
+        "context": "Main Objective: Help the 'evil' necromancer with its loneliness\n\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context:\nHP: 90, Level: 9\nStats: STR: 8 | DEX: 5 | END: 9 | INT: 6 | AWR: 7 | CHA: 4 | LCK: 2\nRaw D20 Roll: 18",
+        "action": "I introduce the necromancer to Archmage Fizzlebang, and they have a heart-to-heart conversation"
+    },
+    {
+        "context": "Main Objective: Defeat the Dramatic Slime\n\nLocation: Mount Inconvenience\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Sir Lancelittle\n\nPlayer Context:\nHP: 55, Level: 5\nStats: STR: 5 | DEX: 8 | END: 6 | INT: 3 | AWR: 9 | CHA: 7 | LCK: 1\nRaw D20 Roll: 6",
+        "action": "I use my Tactical Pocket Sand to blind the slime, but it overacts and Sir Lancelittle gets confused"
+    },
+    {
+        "context": "Main Objective: Find the legendary Ring of Mild Convenience\n\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context:\nHP: 85, Level: 6\nStats: STR: 6 | DEX: 7 | END: 5 | INT: 8 | AWR: 4 | CHA: 9 | LCK: 6\nRaw D20 Roll: 15",
+        "action": "I search the village, and after a series of silly mishaps, I stumble upon the ring"
+    },
+    {
+        "context": "Main Objective: Stop the goblin's unionization efforts\n\nLocation: Muttering Woods\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context:\nHP: 60, Level: 4\nStats: STR: 7 | DEX: 6 | END: 4 | INT: 5 | AWR: 8 | CHA: 3 | LCK: 9\nRaw D20 Roll: 10",
+        "action": "I try to reason with the goblin, but it demands better working conditions and more snacks"
+    },
+    {
+        "context": "Main Objective: Reach the bandit king's lair\n\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: Sir Lancelittle\n\nPlayer Context:\nHP: 75, Level: 7\nStats: STR: 9 | DEX: 5 | END: 7 | INT: 4 | AWR: 6 | CHA: 8 | LCK: 2\nRaw D20 Roll: 11",
+        "action": "I engage in a fierce battle with the skeleton, but Sir Lancelittle gets in the way and we both tumble down the stairs"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find the glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 12 | END: 10 | INT: 6 | AWR: 8 | CHA: 14 | LCK: 10\nRaw D20 Roll: 14",
+        "action": "Try to negotiate with the Unionized Goblin using my CHA score and offer it a Slightly Used Broadsword as a gift"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 16 | DEX: 10 | END: 12 | INT: 8 | AWR: 10 | CHA: 12 | LCK: 14\nRaw D20 Roll: 6",
+        "action": "Use my Tactical Frying Pan to deflect the goblin's attack and then offer it a cup of tea"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 3\nStats: STR: 10 | DEX: 8 | END: 8 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 8\nRaw D20 Roll: 10",
+        "action": "Attempt to climb the steep stairs while wearing Chafing Chainmail and carrying a Staff of Splinters"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer just wants friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 12 | DEX: 14 | END: 14 | INT: 10 | AWR: 12 | CHA: 16 | LCK: 12\nRaw D20 Roll: 18",
+        "action": "Use my Ring of Mild Convenience to make friends with the necromancer and then have a picnic together"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to get to the other side of the Muttering Woods\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 14 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 10\nRaw D20 Roll: 4",
+        "action": "Try to convince the Insecure Mimic that it's a great wobbly bar stool and then sit on it"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get to the top of Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Dramatic Slime (Type: ooze)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 10 | DEX: 12 | END: 12 | INT: 8 | AWR: 10 | CHA: 14 | LCK: 12\nRaw D20 Roll: 12",
+        "action": "Use my Tactical Pocket Sand to blind the Dramatic Slime and then run past it"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help the Mayor with his corrupt dealings\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 10\nRaw D20 Roll: 8",
+        "action": "Try to distract the Mayor by making him drop his monocle in his soup"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to get the Unionized Goblin to stop taking breaks\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 16 | DEX: 10 | END: 12 | INT: 8 | AWR: 10 | CHA: 12 | LCK: 14\nRaw D20 Roll: 16",
+        "action": "Offer the Unionized Goblin a Questionable Red Potion to drink during its break"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate the Muttering Woods without getting judged by the trees\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 10 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 10 | LCK: 10\nRaw D20 Roll: 6",
+        "action": "Wear a Vegan Leather Tunic and Hand-me-down Robes to try to blend in with the trees"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Sir Lancelittle find his way\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: None\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 12 | DEX: 12 | END: 12 | INT: 8 | AWR: 10 | CHA: 14 | LCK: 12\nRaw D20 Roll: 10",
+        "action": "Use my Amulet of Pointless Advice to give Sir Lancelittle terrible directions"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get the Archmage Fizzlebang to teach me magic\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 10 | DEX: 14 | END: 14 | INT: 10 | AWR: 12 | CHA: 16 | LCK: 12\nRaw D20 Roll: 14",
+        "action": "Try to impress the Archmage Fizzlebang with my knowledge of tea temperatures"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to defeat the Overencumbered Skeleton\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 3\nStats: STR: 12 | DEX: 8 | END: 8 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 8\nRaw D20 Roll: 12",
+        "action": "Use my Staff of Splinters to try to knock the rusty spoons out of the Overencumbered Skeleton's hands"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Iron Thumb Olga with her blacksmithing\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 14 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 10\nRaw D20 Roll: 8",
+        "action": "Try to convince Iron Thumb Olga to let me help her with her knitting instead"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive the night in the Muttering Woods\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 10 | LCK: 10\nRaw D20 Roll: 4",
+        "action": "Try to start a campfire and cook a meal using my Tactical Frying Pan"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to get the Insecure Mimic to stop disguising itself\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 10 | DEX: 12 | END: 12 | INT: 8 | AWR: 10 | CHA: 14 | LCK: 12\nRaw D20 Roll: 6",
+        "action": "Try to give the Insecure Mimic a confidence boost by telling it it's a great wobbly bar stool"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate the steep stairs of Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 40, Level: 3\nStats: STR: 10 | DEX: 8 | END: 8 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 8\nRaw D20 Roll: 10",
+        "action": "Try to climb the stairs while carrying a Slightly Used Broadsword and wearing Chafing Chainmail"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help the 'evil' necromancer find friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 12 | DEX: 14 | END: 14 | INT: 10 | AWR: 12 | CHA: 16 | LCK: 12\nRaw D20 Roll: 18",
+        "action": "Use my Lucky D20 Pendant to try to find the necromancer and then introduce it to the Archmage Fizzlebang"
+    },
+    {
+        "context": "Story Context\nMain Objective: Get the Orc Life Coach to stop shouting motivational quotes\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 14 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 10\nRaw D20 Roll: 12",
+        "action": "Try to outshout the Orc Life Coach with my own motivational quotes"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to rest in a cozy place\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 10 | LCK: 10\nRaw D20 Roll: 8",
+        "action": "Try to find a cozy spot in the tavern and take a nap"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help the Mayor with his insurance claims\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 16 | DEX: 10 | END: 12 | INT: 8 | AWR: 10 | CHA: 12 | LCK: 14\nRaw D20 Roll: 16",
+        "action": "Try to help the Mayor fill out his insurance forms and then 'accidentally' spill soup on them"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to defeat the Dramatic Slime\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 10 | DEX: 12 | END: 12 | INT: 8 | AWR: 10 | CHA: 14 | LCK: 12\nRaw D20 Roll: 14",
+        "action": "Use my Caffeinated Blue Elixir to make my teeth vibrate and then try to distract the Dramatic Slime"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help Iron Thumb Olga with her secret knitting hobby\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 14 | DEX: 10 | END: 10 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 10\nRaw D20 Roll: 10",
+        "action": "Try to help Iron Thumb Olga knit a scarf and then wear it as a cape"
+    },
+    {
+        "context": "Main Objective: Find the glowing MacGuffin for the Mayor\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\nHP: 50, Level: 5\nStats: STR: 6 | DEX: 4 | END: 7 | INT: 3 | AWR: 5 | CHA: 8 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "Try to negotiate with Mayor Bartholomew while he's eating soup"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\nHP: 20, Level: 2\nStats: STR: 3 | DEX: 6 | END: 4 | INT: 2 | AWR: 3 | CHA: 5 | LCK: 1\nRaw D20 Roll: 10",
+        "action": "Use the Tactical Frying Pan to deflect the goblin's attack"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer's true intentions\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 80, Level: 8\nStats: STR: 5 | DEX: 8 | END: 6 | INT: 9 | AWR: 7 | CHA: 4 | LCK: 3\nRaw D20 Roll: 18",
+        "action": "Ask Archmage Fizzlebang about the perfect tea temperature"
+    },
+    {
+        "context": "Main Objective: Navigate Mount Inconvenience to confront the bandit king\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\nHP: 40, Level: 4\nStats: STR: 7 | DEX: 3 | END: 5 | INT: 1 | AWR: 2 | CHA: 6 | LCK: 4\nRaw D20 Roll: 6",
+        "action": "Try to take a rusty spoon from the Overencumbered Skeleton"
+    },
+    {
+        "context": "Main Objective: Find a way to climb Mount Inconvenience without handrails\nLocation: Mount Inconvenience\nEnemy: None\nNPC: Sir Lancelittle\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 5 | END: 7 | INT: 4 | AWR: 6 | CHA: 3 | LCK: 5\nRaw D20 Roll: 12",
+        "action": "Follow Sir Lancelittle's navigation 'expertise'"
+    },
+    {
+        "context": "Main Objective: Defeat the Dramatic Slime\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\nHP: 30, Level: 3\nStats: STR: 4 | DEX: 7 | END: 3 | INT: 5 | AWR: 4 | CHA: 2 | LCK: 6\nRaw D20 Roll: 15",
+        "action": "Use the Questionable Red Potion to 'boost' my abilities"
+    },
+    {
+        "context": "Main Objective: Rest in a cozy place\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 90, Level: 9\nStats: STR: 9 | DEX: 6 | END: 8 | INT: 6 | AWR: 5 | CHA: 7 | LCK: 8\nRaw D20 Roll: 20",
+        "action": "Ask Iron Thumb Olga to knit me a cozy sweater"
+    },
+    {
+        "context": "Main Objective: Find the glowing MacGuffin for the Mayor\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\nHP: 50, Level: 5\nStats: STR: 6 | DEX: 4 | END: 7 | INT: 3 | AWR: 5 | CHA: 8 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "Try to sit on the Insecure Mimic thinking it's a wobbly bar stool"
+    },
+    {
+        "context": "Main Objective: Confront the bandit king\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\nHP: 40, Level: 4\nStats: STR: 7 | DEX: 3 | END: 5 | INT: 1 | AWR: 2 | CHA: 6 | LCK: 4\nRaw D20 Roll: 6",
+        "action": "Use the Staff of Splinters to 'motivate' the Orc Life Coach"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer's true intentions\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 80, Level: 8\nStats: STR: 5 | DEX: 8 | END: 6 | INT: 9 | AWR: 7 | CHA: 4 | LCK: 3\nRaw D20 Roll: 18",
+        "action": "Ask Archmage Fizzlebang to join me for a cup of tea"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\nHP: 20, Level: 2\nStats: STR: 3 | DEX: 6 | END: 4 | INT: 2 | AWR: 3 | CHA: 5 | LCK: 1\nRaw D20 Roll: 10",
+        "action": "Use the Tactical Pocket Sand to blind the goblin"
+    },
+    {
+        "context": "Main Objective: Find a way to climb Mount Inconvenience without handrails\nLocation: Mount Inconvenience\nEnemy: None\nNPC: Sir Lancelittle\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 5 | END: 7 | INT: 4 | AWR: 6 | CHA: 3 | LCK: 5\nRaw D20 Roll: 12",
+        "action": "Follow Sir Lancelittle's 'expert' navigation"
+    },
+    {
+        "context": "Main Objective: Defeat the Dramatic Slime\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\nHP: 30, Level: 3\nStats: STR: 4 | DEX: 7 | END: 3 | INT: 5 | AWR: 4 | CHA: 2 | LCK: 6\nRaw D20 Roll: 15",
+        "action": "Use the Caffeinated Blue Elixir to 'energize' my attack"
+    },
+    {
+        "context": "Main Objective: Rest in a cozy place\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 90, Level: 9\nStats: STR: 9 | DEX: 6 | END: 8 | INT: 6 | AWR: 5 | CHA: 7 | LCK: 8\nRaw D20 Roll: 20",
+        "action": "Ask Iron Thumb Olga to teach me how to knit"
+    },
+    {
+        "context": "Main Objective: Find the glowing MacGuffin for the Mayor\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\nHP: 50, Level: 5\nStats: STR: 6 | DEX: 4 | END: 7 | INT: 3 | AWR: 5 | CHA: 8 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "Try to reason with the Insecure Mimic"
+    },
+    {
+        "context": "Main Objective: Confront the bandit king\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\nHP: 40, Level: 4\nStats: STR: 7 | DEX: 3 | END: 5 | INT: 1 | AWR: 2 | CHA: 6 | LCK: 4\nRaw D20 Roll: 6",
+        "action": "Use the Slightly Used Broadsword to 'inspire' the Orc Life Coach"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer's true intentions\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 80, Level: 8\nStats: STR: 5 | DEX: 8 | END: 6 | INT: 9 | AWR: 7 | CHA: 4 | LCK: 3\nRaw D20 Roll: 18",
+        "action": "Ask Archmage Fizzlebang about his favorite tea flavor"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\nHP: 20, Level: 2\nStats: STR: 3 | DEX: 6 | END: 4 | INT: 2 | AWR: 3 | CHA: 5 | LCK: 1\nRaw D20 Roll: 10",
+        "action": "Use the Chafing Chainmail to 'distract' the goblin"
+    },
+    {
+        "context": "Main Objective: Find a way to climb Mount Inconvenience without handrails\nLocation: Mount Inconvenience\nEnemy: None\nNPC: Sir Lancelittle\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 5 | END: 7 | INT: 4 | AWR: 6 | CHA: 3 | LCK: 5\nRaw D20 Roll: 12",
+        "action": "Follow Sir Lancelittle's 'brave' lead"
+    },
+    {
+        "context": "Main Objective: Defeat the Dramatic Slime\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\nHP: 30, Level: 3\nStats: STR: 4 | DEX: 7 | END: 3 | INT: 5 | AWR: 4 | CHA: 2 | LCK: 6\nRaw D20 Roll: 15",
+        "action": "Use the Scroll of Fireball to 'surprise' the Dramatic Slime"
+    },
+    {
+        "context": "Main Objective: Rest in a cozy place\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 90, Level: 9\nStats: STR: 9 | DEX: 6 | END: 8 | INT: 6 | AWR: 5 | CHA: 7 | LCK: 8\nRaw D20 Roll: 20",
+        "action": "Ask Iron Thumb Olga to cook me a hearty meal"
+    },
+    {
+        "context": "Main Objective: Find the glowing MacGuffin for the Mayor\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\nHP: 50, Level: 5\nStats: STR: 6 | DEX: 4 | END: 7 | INT: 3 | AWR: 5 | CHA: 8 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "Try to out-fashion the Insecure Mimic"
+    },
+    {
+        "context": "Main Objective: Confront the bandit king\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\nHP: 40, Level: 4\nStats: STR: 7 | DEX: 3 | END: 5 | INT: 1 | AWR: 2 | CHA: 6 | LCK: 4\nRaw D20 Roll: 6",
+        "action": "Use the Amulet of Pointless Advice to 'confuse' the Orc Life Coach"
+    },
+    {
+        "context": "Main Objective: Find the glowing MacGuffin for the Mayor\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 5 | END: 6 | INT: 4 | AWR: 7 | CHA: 3 | LCK: 9\nRaw D20 Roll: 14",
+        "action": "Try to negotiate with Mayor Bartholomew while he's distracted by his monocle in the soup"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\nHP: 80, Level: 7\nStats: STR: 9 | DEX: 6 | END: 8 | INT: 5 | AWR: 4 | CHA: 2 | LCK: 10\nRaw D20 Roll: 18",
+        "action": "Use the Tactical Frying Pan to deflect the goblin's attack and then offer it a 15-minute break"
+    },
+    {
+        "context": "Main Objective: Navigate Mount Inconvenience to confront a bandit king\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\nHP: 30, Level: 3\nStats: STR: 6 | DEX: 3 | END: 5 | INT: 2 | AWR: 6 | CHA: 8 | LCK: 4\nRaw D20 Roll: 12",
+        "action": "Try to take a rusty spoon from the skeleton and use it as a makeshift walking stick"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer just wants friends\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 90, Level: 9\nStats: STR: 7 | DEX: 9 | END: 6 | INT: 10 | AWR: 5 | CHA: 6 | LCK: 8\nRaw D20 Roll: 16",
+        "action": "Ask Archmage Fizzlebang about his tea and offer to help him find friends"
+    },
+    {
+        "context": "Main Objective: Find a way to get to the top of Mount Inconvenience\nLocation: Mount Inconvenience\nEnemy: None\nNPC: Sir Lancelittle\nHP: 40, Level: 4\nStats: STR: 5 | DEX: 4 | END: 7 | INT: 3 | AWR: 9 | CHA: 1 | LCK: 6\nRaw D20 Roll: 10",
+        "action": "Follow Sir Lancelittle and hope he gets us to the top despite his terrible sense of direction"
+    },
+    {
+        "context": "Main Objective: Defeat the Dramatic Slime\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 7 | END: 5 | INT: 6 | AWR: 3 | CHA: 9 | LCK: 5\nRaw D20 Roll: 15",
+        "action": "Use the Questionable Red Potion to try and confuse the Dramatic Slime"
+    },
+    {
+        "context": "Main Objective: Rest and recover in a cozy place\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 20, Level: 2\nStats: STR: 4 | DEX: 2 | END: 3 | INT: 1 | AWR: 8 | CHA: 5 | LCK: 7\nRaw D20 Roll: 6",
+        "action": "Ask Iron Thumb Olga to knit us a cozy blanket and then take a nap"
+    },
+    {
+        "context": "Main Objective: Find a way to deal with the Insecure Mimic\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\nHP: 70, Level: 8\nStats: STR: 9 | DEX: 8 | END: 4 | INT: 7 | AWR: 2 | CHA: 4 | LCK: 9\nRaw D20 Roll: 11",
+        "action": "Try to give the Insecure Mimic a compliment to boost its confidence"
+    },
+    {
+        "context": "Main Objective: Survive the steep stairs of Mount Inconvenience\nLocation: Mount Inconvenience\nEnemy: None\nNPC: None\nHP: 50, Level: 5\nStats: STR: 6 | DEX: 5 | END: 7 | INT: 4 | AWR: 6 | CHA: 3 | LCK: 8\nRaw D20 Roll: 13",
+        "action": "Use the Tactical Pocket Sand to try and make the stairs less slippery"
+    },
+    {
+        "context": "Main Objective: Confront the bandit king\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\nHP: 80, Level: 7\nStats: STR: 10 | DEX: 6 | END: 8 | INT: 5 | AWR: 4 | CHA: 2 | LCK: 10\nRaw D20 Roll: 19",
+        "action": "Use the Staff of Splinters to deflect the Orc Life Coach's motivational quotes"
+    },
+    {
+        "context": "Main Objective: Find the glowing MacGuffin\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 90, Level: 9\nStats: STR: 7 | DEX: 9 | END: 6 | INT: 10 | AWR: 5 | CHA: 6 | LCK: 8\nRaw D20 Roll: 17",
+        "action": "Ask Archmage Fizzlebang to use his cosmic magic to locate the glowing MacGuffin"
+    },
+    {
+        "context": "Main Objective: Defeat the Unionized Goblin\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\nHP: 40, Level: 4\nStats: STR: 5 | DEX: 4 | END: 7 | INT: 3 | AWR: 9 | CHA: 1 | LCK: 6\nRaw D20 Roll: 9",
+        "action": "Try to negotiate with the Unionized Goblin during its 15-minute break"
+    },
+    {
+        "context": "Main Objective: Navigate the Muttering Woods\nLocation: Muttering Woods\nEnemy: None\nNPC: None\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 7 | END: 5 | INT: 6 | AWR: 3 | CHA: 9 | LCK: 5\nRaw D20 Roll: 14",
+        "action": "Listen to the trees' passive-aggressive comments and try to improve our fashion sense"
+    },
+    {
+        "context": "Main Objective: Find a way to deal with the Overencumbered Skeleton\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: Sir Lancelittle\nHP: 30, Level: 3\nStats: STR: 6 | DEX: 3 | END: 5 | INT: 2 | AWR: 6 | CHA: 8 | LCK: 4\nRaw D20 Roll: 7",
+        "action": "Try to take some of the skeleton's rusty spoons to lighten its load"
+    },
+    {
+        "context": "Main Objective: Rest and recover in a cozy place\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 20, Level: 2\nStats: STR: 4 | DEX: 2 | END: 3 | INT: 1 | AWR: 8 | CHA: 5 | LCK: 7\nRaw D20 Roll: 5",
+        "action": "Ask Iron Thumb Olga to cook us a hearty meal and then take a nap"
+    },
+    {
+        "context": "Main Objective: Find a way to get past the Insecure Mimic\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\nHP: 70, Level: 8\nStats: STR: 9 | DEX: 8 | END: 4 | INT: 7 | AWR: 2 | CHA: 4 | LCK: 9\nRaw D20 Roll: 12",
+        "action": "Try to give the Insecure Mimic a makeover to boost its confidence"
+    },
+    {
+        "context": "Main Objective: Survive the steep stairs of Mount Inconvenience\nLocation: Mount Inconvenience\nEnemy: None\nNPC: None\nHP: 50, Level: 5\nStats: STR: 6 | DEX: 5 | END: 7 | INT: 4 | AWR: 6 | CHA: 3 | LCK: 8\nRaw D20 Roll: 15",
+        "action": "Use the Chafing Chainmail to try and climb the stairs more easily"
+    },
+    {
+        "context": "Main Objective: Confront the bandit king\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\nHP: 80, Level: 7\nStats: STR: 10 | DEX: 6 | END: 8 | INT: 5 | AWR: 4 | CHA: 2 | LCK: 10\nRaw D20 Roll: 18",
+        "action": "Use the Caffeinated Blue Elixir to try and out-motivate the Orc Life Coach"
+    },
+    {
+        "context": "Main Objective: Find the glowing MacGuffin\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 90, Level: 9\nStats: STR: 7 | DEX: 9 | END: 6 | INT: 10 | AWR: 5 | CHA: 6 | LCK: 8\nRaw D20 Roll: 11",
+        "action": "Ask Archmage Fizzlebang to use his cosmic magic to create a map to the glowing MacGuffin"
+    },
+    {
+        "context": "Main Objective: Defeat the Dramatic Slime\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 7 | END: 5 | INT: 6 | AWR: 3 | CHA: 9 | LCK: 5\nRaw D20 Roll: 9",
+        "action": "Use the Scroll of Fireball to try and defeat the Dramatic Slime, but read it indoors by accident"
+    },
+    {
+        "context": "Main Objective: Navigate the Muttering Woods\nLocation: Muttering Woods\nEnemy: None\nNPC: None\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 7 | END: 5 | INT: 6 | AWR: 3 | CHA: 9 | LCK: 5\nRaw D20 Roll: 16",
+        "action": "Listen to the trees' passive-aggressive comments and try to learn from their advice"
+    },
+    {
+        "context": "Main Objective: Find a way to deal with the Overencumbered Skeleton\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: Sir Lancelittle\nHP: 30, Level: 3\nStats: STR: 6 | DEX: 3 | END: 5 | INT: 2 | AWR: 6 | CHA: 8 | LCK: 4\nRaw D20 Roll: 14",
+        "action": "Try to help the skeleton reorganize its inventory to make it less overencumbered"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find Mayor Bartholomew's missing monocle\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 12 | END: 10 | INT: 6 | AWR: 8 | CHA: 14 | LCK: 10\nRaw D20 Roll: 14",
+        "action": "I attempt to distract Mayor Bartholomew with a plate of free pancakes while searching for his monocle"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate Mount Inconvenience to confront a bandit king\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 80, Level: 7\nStats: STR: 10 | DEX: 8 | END: 12 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 12\nRaw D20 Roll: 7",
+        "action": "I try to negotiate with the Unionized Goblin during its 15-minute break"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer's true intentions\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 30, Level: 3\nStats: STR: 6 | DEX: 10 | END: 8 | INT: 8 | AWR: 12 | CHA: 6 | LCK: 8\nRaw D20 Roll: 18",
+        "action": "I use my Staff of Splinters to conduct an impromptu soap opera audition for the Dramatic Slime"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 8 | DEX: 12 | END: 10 | INT: 6 | AWR: 8 | CHA: 14 | LCK: 10\nRaw D20 Roll: 5",
+        "action": "I use my Tactical Frying Pan to deflect the goblin's attacks while Olga tries to knit a sweater"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 10 | DEX: 8 | END: 12 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 12\nRaw D20 Roll: 15",
+        "action": "I attempt to give the Insecure Mimic a confidence boost by complimenting its wobbly bar stool disguise"
+    },
+    {
+        "context": "Story Context\nMain Objective: Rest and recover in a cozy location\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 20, Level: 2\nStats: STR: 4 | DEX: 6 | END: 8 | INT: 10 | AWR: 12 | CHA: 8 | LCK: 6\nRaw D20 Roll: 10",
+        "action": "I ask Archmage Fizzlebang if I can borrow his perfect-temperature tea to soothe my tired muscles"
+    },
+    {
+        "context": "Story Context\nMain Objective: Confront the bandit king on Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 12 | DEX: 10 | END: 14 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 14\nRaw D20 Roll: 20",
+        "action": "I engage in an epic battle with the Orc Life Coach while simultaneously taking notes on its motivational quotes"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the secrets of the Questionable Red Potion\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 12 | END: 10 | INT: 6 | AWR: 8 | CHA: 14 | LCK: 10\nRaw D20 Roll: 3",
+        "action": "I accidentally give the Questionable Red Potion to Sir Lancelittle, who thinks it's a new kind of fruit juice"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate the Muttering Woods without getting judged by the trees\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 10 | DEX: 8 | END: 12 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 12\nRaw D20 Roll: 11",
+        "action": "I attempt to impress the trees with my stylish Vegan Leather Tunic and Hand-me-down Robes"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help the 'evil' necromancer make some friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 8 | DEX: 12 | END: 10 | INT: 6 | AWR: 8 | CHA: 14 | LCK: 10\nRaw D20 Roll: 6",
+        "action": "I try to convince the Overencumbered Skeleton to put down its rusty spoons and join a book club"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 10 | DEX: 8 | END: 12 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 12\nRaw D20 Roll: 9",
+        "action": "I use my Slightly Used Broadsword to deflect the goblin's attacks while Olga tries to knit a nice scarf"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to make the Caffeinated Blue Elixir stop making my teeth vibrate\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 12 | DEX: 10 | END: 14 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 14\nRaw D20 Roll: 16",
+        "action": "I ask Archmage Fizzlebang if he can use his cosmic magic to calm down my vibrating teeth"
+    },
+    {
+        "context": "Story Context\nMain Objective: Confront the bandit king on Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 12 | DEX: 10 | END: 14 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 14\nRaw D20 Roll: 4",
+        "action": "I attempt to sneak past the Orc Life Coach by disguising myself as a motivational poster"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the secrets of the Scroll of Fireball\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 12 | END: 10 | INT: 6 | AWR: 8 | CHA: 14 | LCK: 10\nRaw D20 Roll: 12",
+        "action": "I try to read the Scroll of Fireball indoors, despite the warning label"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate the Muttering Woods without getting lost\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 10 | DEX: 8 | END: 12 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 12\nRaw D20 Roll: 19",
+        "action": "I use my Ring of Mild Convenience to get a slightly better sense of direction"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help the 'evil' necromancer make some friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 8 | DEX: 12 | END: 10 | INT: 6 | AWR: 8 | CHA: 14 | LCK: 10\nRaw D20 Roll: 2",
+        "action": "I attempt to put on a puppet show for the Dramatic Slime to cheer it up"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to make the Questionable Red Potion taste better\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 10 | DEX: 8 | END: 12 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 12\nRaw D20 Roll: 13",
+        "action": "I ask Olga if she can whip up a batch of her famous 'Olga's Awesome Sauce' to mask the taste"
+    },
+    {
+        "context": "Story Context\nMain Objective: Confront the bandit king on Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 12 | DEX: 10 | END: 14 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 14\nRaw D20 Roll: 1",
+        "action": "I try to use my Tactical Pocket Sand to blind the Unionized Goblin during its 15-minute break"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the secrets of the Amulet of Pointless Advice\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 12 | END: 10 | INT: 6 | AWR: 8 | CHA: 14 | LCK: 10\nRaw D20 Roll: 17",
+        "action": "I ask Mayor Bartholomew if he can decipher the Amulet's cryptic messages"
+    },
+    {
+        "context": "Story Context\nMain Objective: Navigate the Muttering Woods without getting judged by the trees\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 70, Level: 7\nStats: STR: 10 | DEX: 8 | END: 12 | INT: 4 | AWR: 6 | CHA: 10 | LCK: 12\nRaw D20 Roll: 8",
+        "action": "I attempt to distract the trees with a choreographed dance routine"
+    },
+    {
+        "context": "Story Context\nMain Objective: Help the 'evil' necromancer make some friends\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 4\nStats: STR: 8 | DEX: 12 | END: 10 | INT: 6 | AWR: 8 | CHA: 14 | LCK: 10\nRaw D20 Roll: 18",
+        "action": "I try to teach the Overencumbered Skeleton how to play a game of 'Skeleton Says' to loosen it up"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to make the Lucky D20 Pendant actually grant good luck\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 80, Level: 8\nStats: STR: 12 | DEX: 10 | END: 14 | INT: 6 | AWR: 8 | CHA: 12 | LCK: 14\nRaw D20 Roll: 6",
+        "action": "I ask Archmage Fizzlebang if he can perform a ritual to awaken the pendant's true potential"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 14",
+        "action": "I use my Tactical Frying Pan to deflect the goblin's attack while trying to reason with it about the importance of proper labor laws"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 75, Level: 3\nStats: STR: 5 | DEX: 8 | END: 6 | INT: 7 | AWR: 4 | CHA: 6 | LCK: 9\nRaw D20 Roll: 18",
+        "action": "I grab a nearby chair and use it as a shield to block the goblin's wild swing"
+    },
+    {
+        "context": "Story Context\nMain Objective: Confront a bandit king on Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 40, Level: 7\nStats: STR: 9 | DEX: 5 | END: 8 | INT: 3 | AWR: 6 | CHA: 7 | LCK: 2\nRaw D20 Roll: 10",
+        "action": "I attempt to climb the steep stairs while carrying a large sign that reads 'I'm with stupid' and pointing it at the orc"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer's true intentions\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 9\nStats: STR: 6 | DEX: 9 | END: 5 | INT: 8 | AWR: 7 | CHA: 4 | LCK: 6\nRaw D20 Roll: 12",
+        "action": "I ask Archmage Fizzlebang about the necromancer's plans while trying to impress him with my knowledge of tea etiquette"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to navigate Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 60, Level: 4\nStats: STR: 7 | DEX: 4 | END: 9 | INT: 5 | AWR: 3 | CHA: 8 | LCK: 1\nRaw D20 Roll: 16",
+        "action": "I try to trade one of my rusty spoons for a map that supposedly leads to the top of the mountain"
+    },
+    {
+        "context": "Story Context\nMain Objective: Rest in a cozy place\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 80, Level: 6\nStats: STR: 8 | DEX: 7 | END: 6 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 11",
+        "action": "I take a nap in the village's famous giant hammock while snoring loudly"
+    },
+    {
+        "context": "Story Context\nMain Objective: Defeat the Insecure Mimic\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\n\nPlayer Context\nHP: 45, Level: 2\nStats: STR: 4 | DEX: 6 | END: 5 | INT: 7 | AWR: 4 | CHA: 6 | LCK: 8\nRaw D20 Roll: 19",
+        "action": "I attempt to give the mimic a pep talk and convince it that it's a great wobbly bar stool"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 55, Level: 8\nStats: STR: 9 | DEX: 5 | END: 7 | INT: 3 | AWR: 6 | CHA: 7 | LCK: 2\nRaw D20 Roll: 15",
+        "action": "I search the Mayor's office for clues while trying not to laugh at his ridiculous mustache"
+    },
+    {
+        "context": "Story Context\nMain Objective: Confront a bandit king on Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\n\nPlayer Context\nHP: 30, Level: 1\nStats: STR: 3 | DEX: 8 | END: 4 | INT: 6 | AWR: 5 | CHA: 4 | LCK: 9\nRaw D20 Roll: 7",
+        "action": "I use my Questionable Red Potion to try and turn the slime into a harmless soap opera actor"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 65, Level: 9\nStats: STR: 6 | DEX: 9 | END: 5 | INT: 8 | AWR: 7 | CHA: 4 | LCK: 6\nRaw D20 Roll: 13",
+        "action": "I grab a nearby broom and use it as a makeshift microphone to sing a silly song to distract the goblin"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer's true intentions\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 95, Level: 10\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 5 | AWR: 6 | CHA: 9 | LCK: 4\nRaw D20 Roll: 20",
+        "action": "I challenge Archmage Fizzlebang to a tea-brewing contest to prove my skills"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to navigate Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 50, Level: 5\nStats: STR: 7 | DEX: 4 | END: 9 | INT: 5 | AWR: 3 | CHA: 8 | LCK: 1\nRaw D20 Roll: 14",
+        "action": "I ask Iron Thumb Olga to create a customized ladder for me to climb the mountain"
+    },
+    {
+        "context": "Story Context\nMain Objective: Rest in a cozy place\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 85, Level: 7\nStats: STR: 8 | DEX: 7 | END: 6 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 12",
+        "action": "I take a relaxing bath in the village's giant tub while eating a bowl of soup"
+    },
+    {
+        "context": "Story Context\nMain Objective: Defeat the Insecure Mimic\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\n\nPlayer Context\nHP: 40, Level: 3\nStats: STR: 5 | DEX: 6 | END: 5 | INT: 7 | AWR: 4 | CHA: 6 | LCK: 8\nRaw D20 Roll: 16",
+        "action": "I use my Staff of Splinters to create a makeshift puppet show to entertain the mimic"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 60, Level: 6\nStats: STR: 9 | DEX: 5 | END: 7 | INT: 3 | AWR: 6 | CHA: 7 | LCK: 2\nRaw D20 Roll: 11",
+        "action": "I search the village's famous 'Lost and Found' box for clues while trying to find my missing socks"
+    },
+    {
+        "context": "Story Context\nMain Objective: Confront a bandit king on Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: Sir Lancelittle\n\nPlayer Context\nHP: 35, Level: 2\nStats: STR: 4 | DEX: 8 | END: 4 | INT: 6 | AWR: 5 | CHA: 4 | LCK: 9\nRaw D20 Roll: 10",
+        "action": "I use my Tactical Pocket Sand to blind the orc while Sir Lancelittle charges forward with his sword"
+    },
+    {
+        "context": "Story Context\nMain Objective: Survive a goblin crashing through the tavern window\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\n\nPlayer Context\nHP: 70, Level: 8\nStats: STR: 6 | DEX: 9 | END: 5 | INT: 8 | AWR: 7 | CHA: 4 | LCK: 6\nRaw D20 Roll: 15",
+        "action": "I grab a nearby bucket of water and use it to put out the goblin's flaming hair"
+    },
+    {
+        "context": "Story Context\nMain Objective: Discover the 'evil' necromancer's true intentions\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\n\nPlayer Context\nHP: 90, Level: 10\nStats: STR: 8 | DEX: 6 | END: 7 | INT: 5 | AWR: 6 | CHA: 9 | LCK: 4\nRaw D20 Roll: 18",
+        "action": "I challenge Archmage Fizzlebang to a magical duel using only silly string and rubber chickens"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a way to navigate Mount Inconvenience\n\nEnvironmental Context\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: Iron Thumb Olga\n\nPlayer Context\nHP: 55, Level: 5\nStats: STR: 7 | DEX: 4 | END: 9 | INT: 5 | AWR: 3 | CHA: 8 | LCK: 1\nRaw D20 Roll: 13",
+        "action": "I ask Iron Thumb Olga to create a customized pair of roller skates for me to climb the mountain"
+    },
+    {
+        "context": "Story Context\nMain Objective: Rest in a cozy place\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: None\n\nPlayer Context\nHP: 80, Level: 7\nStats: STR: 8 | DEX: 7 | END: 6 | INT: 4 | AWR: 5 | CHA: 9 | LCK: 3\nRaw D20 Roll: 12",
+        "action": "I take a nap in the village's famous giant hammock while being rocked to sleep by a lullaby"
+    },
+    {
+        "context": "Story Context\nMain Objective: Defeat the Insecure Mimic\n\nEnvironmental Context\nLocation: Muttering Woods\nEnemy: Insecure Mimic (Type: monstrosity)\nNPC: None\n\nPlayer Context\nHP: 45, Level: 3\nStats: STR: 5 | DEX: 6 | END: 5 | INT: 7 | AWR: 4 | CHA: 6 | LCK: 8\nRaw D20 Roll: 19",
+        "action": "I use my Scroll of Fireball to create a makeshift fireworks display to entertain the mimic"
+    },
+    {
+        "context": "Story Context\nMain Objective: Find a glowing MacGuffin for the Mayor\n\nEnvironmental Context\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\n\nPlayer Context\nHP: 65, Level: 6\nStats: STR: 9 | DEX: 5 | END: 7 | INT: 3 | AWR: 6 | CHA: 7 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "I search the village's famous 'Lost and Found' box for clues while trying to find my missing favorite snack"
+    },
+    {
+        "context": "Main Objective: Find a glowing MacGuffin for the Mayor\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 4 | END: 6 | INT: 3 | AWR: 7 | CHA: 9 | LCK: 2\nRaw D20 Roll: 14",
+        "action": "Try to negotiate with Mayor Bartholomew while wearing a ridiculous hat"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\nHP: 20, Level: 2\nStats: STR: 5 | DEX: 6 | END: 4 | INT: 2 | AWR: 3 | CHA: 5 | LCK: 8\nRaw D20 Roll: 18",
+        "action": "Use the Tactical Frying Pan to deflect the goblin's attack"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer just wants friends\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 80, Level: 8\nStats: STR: 3 | DEX: 9 | END: 7 | INT: 10 | AWR: 6 | CHA: 8 | LCK: 5\nRaw D20 Roll: 12",
+        "action": "Ask Archmage Fizzlebang about his tea-brewing techniques"
+    },
+    {
+        "context": "Main Objective: Navigate Mount Inconvenience to confront a bandit king\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\nHP: 40, Level: 4\nStats: STR: 7 | DEX: 5 | END: 8 | INT: 1 | AWR: 4 | CHA: 6 | LCK: 3\nRaw D20 Roll: 15",
+        "action": "Try to take a rusty spoon from the Overencumbered Skeleton"
+    },
+    {
+        "context": "Main Objective: Find a glowing MacGuffin for the Mayor\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 60, Level: 6\nStats: STR: 9 | DEX: 3 | END: 5 | INT: 4 | AWR: 8 | CHA: 7 | LCK: 1\nRaw D20 Roll: 10",
+        "action": "Commission a knitting pattern from Iron Thumb Olga"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Sir Lancelittle\nHP: 30, Level: 3\nStats: STR: 6 | DEX: 7 | END: 3 | INT: 5 | AWR: 2 | CHA: 4 | LCK: 9\nRaw D20 Roll: 16",
+        "action": "Use the Questionable Red Potion to heal Sir Lancelittle"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer just wants friends\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\nHP: 90, Level: 9\nStats: STR: 4 | DEX: 8 | END: 9 | INT: 6 | AWR: 5 | CHA: 3 | LCK: 7\nRaw D20 Roll: 11",
+        "action": "Engage in a dramatic reading with the Dramatic Slime"
+    },
+    {
+        "context": "Main Objective: Navigate Mount Inconvenience to confront a bandit king\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\nHP: 10, Level: 1\nStats: STR: 8 | DEX: 2 | END: 6 | INT: 3 | AWR: 9 | CHA: 1 | LCK: 4\nRaw D20 Roll: 6",
+        "action": "Listen to the Orc Life Coach's motivational quotes"
+    },
+    {
+        "context": "Main Objective: Find a glowing MacGuffin for the Mayor\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\nHP: 70, Level: 7\nStats: STR: 5 | DEX: 9 | END: 4 | INT: 7 | AWR: 3 | CHA: 6 | LCK: 8\nRaw D20 Roll: 13",
+        "action": "Confront Mayor Bartholomew about his corrupt dealings"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\nHP: 40, Level: 4\nStats: STR: 7 | DEX: 6 | END: 5 | INT: 2 | AWR: 8 | CHA: 5 | LCK: 6\nRaw D20 Roll: 19",
+        "action": "Use the Staff of Splinters to trip the Unionized Goblin"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer just wants friends\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 50, Level: 5\nStats: STR: 3 | DEX: 8 | END: 7 | INT: 9 | AWR: 6 | CHA: 4 | LCK: 5\nRaw D20 Roll: 12",
+        "action": "Ask Archmage Fizzlebang about his favorite books"
+    },
+    {
+        "context": "Main Objective: Navigate Mount Inconvenience to confront a bandit king\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\nHP: 20, Level: 2\nStats: STR: 6 | DEX: 5 | END: 4 | INT: 1 | AWR: 7 | CHA: 3 | LCK: 9\nRaw D20 Roll: 14",
+        "action": "Try to take a selfie with the Overencumbered Skeleton"
+    },
+    {
+        "context": "Main Objective: Find a glowing MacGuffin for the Mayor\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 80, Level: 8\nStats: STR: 9 | DEX: 4 | END: 6 | INT: 5 | AWR: 8 | CHA: 7 | LCK: 3\nRaw D20 Roll: 10",
+        "action": "Challenge Iron Thumb Olga to a knitting competition"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Sir Lancelittle\nHP: 60, Level: 6\nStats: STR: 8 | DEX: 7 | END: 5 | INT: 4 | AWR: 3 | CHA: 6 | LCK: 8\nRaw D20 Roll: 16",
+        "action": "Use the Caffeinated Blue Elixir to stay awake during the fight"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer just wants friends\nLocation: Muttering Woods\nEnemy: Dramatic Slime (Type: ooze)\nNPC: None\nHP: 40, Level: 4\nStats: STR: 5 | DEX: 9 | END: 8 | INT: 6 | AWR: 5 | CHA: 2 | LCK: 7\nRaw D20 Roll: 11",
+        "action": "Engage in a dramatic reading with the Dramatic Slime using a funny accent"
+    },
+    {
+        "context": "Main Objective: Navigate Mount Inconvenience to confront a bandit king\nLocation: Mount Inconvenience\nEnemy: Orc Life Coach (Type: humanoid)\nNPC: None\nHP: 30, Level: 3\nStats: STR: 7 | DEX: 3 | END: 9 | INT: 2 | AWR: 9 | CHA: 1 | LCK: 4\nRaw D20 Roll: 6",
+        "action": "Listen to the Orc Life Coach's motivational quotes while taking a nap"
+    },
+    {
+        "context": "Main Objective: Find a glowing MacGuffin for the Mayor\nLocation: Oakhaven Village\nEnemy: None\nNPC: Mayor Bartholomew\nHP: 90, Level: 9\nStats: STR: 4 | DEX: 8 | END: 7 | INT: 8 | AWR: 6 | CHA: 5 | LCK: 2\nRaw D20 Roll: 13",
+        "action": "Confront Mayor Bartholomew about his love of terrible hats"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: None\nHP: 10, Level: 1\nStats: STR: 6 | DEX: 5 | END: 3 | INT: 1 | AWR: 4 | CHA: 8 | LCK: 6\nRaw D20 Roll: 19",
+        "action": "Use the Tactical Pocket Sand to blind the Unionized Goblin"
+    },
+    {
+        "context": "Main Objective: Discover the 'evil' necromancer just wants friends\nLocation: Muttering Woods\nEnemy: None\nNPC: Archmage Fizzlebang\nHP: 70, Level: 7\nStats: STR: 3 | DEX: 9 | END: 6 | INT: 10 | AWR: 5 | CHA: 7 | LCK: 8\nRaw D20 Roll: 12",
+        "action": "Ask Archmage Fizzlebang about his favorite tea flavors"
+    },
+    {
+        "context": "Main Objective: Navigate Mount Inconvenience to confront a bandit king\nLocation: Mount Inconvenience\nEnemy: Overencumbered Skeleton (Type: undead)\nNPC: None\nHP: 50, Level: 5\nStats: STR: 8 | DEX: 6 | END: 4 | INT: 3 | AWR: 9 | CHA: 2 | LCK: 5\nRaw D20 Roll: 14",
+        "action": "Try to trade a rusty spoon with the Overencumbered Skeleton"
+    },
+    {
+        "context": "Main Objective: Find a glowing MacGuffin for the Mayor\nLocation: Oakhaven Village\nEnemy: None\nNPC: Iron Thumb Olga\nHP: 60, Level: 6\nStats: STR: 9 | DEX: 5 | END: 7 | INT: 4 | AWR: 8 | CHA: 6 | LCK: 3\nRaw D20 Roll: 10",
+        "action": "Commission a custom-made knitting needle from Iron Thumb Olga"
+    },
+    {
+        "context": "Main Objective: Survive a goblin crashing through the tavern window\nLocation: Oakhaven Village\nEnemy: Unionized Goblin (Type: humanoid)\nNPC: Sir Lancelittle\nHP: 80, Level: 8\nStats: STR: 7 | DEX: 8 | END: 6 | INT: 5 | AWR: 4 | CHA: 9 | LCK: 7\nRaw D20 Roll: 16",
+        "action": "Use the Slightly Used Broadsword to deflect the Unionized Goblin's attack"
+    }
+]

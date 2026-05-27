@@ -1,0 +1,510 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HellMerge RPG - Menu UI Mockup</title>
+    <style>
+      /* Mengimpor font Serif klasik untuk narasi & Sans-serif untuk UI */
+      @import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Noto+Sans:wght@400;600&display=swap");
+
+      :root {
+        --bg-color: #f2ebe1;
+        --text-main: #4a443f;
+        --text-muted: #b0a89d;
+        --border-color: #e3dbcb;
+        --hp-color: #9c4543;
+        --energy-color: #99734d;
+        --exp-color: #6786a1;
+      }
+
+      body {
+        background-color: #2b2b2b; /* Warna luar game */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: "Merriweather", serif;
+        color: var(--text-main);
+      }
+
+      /* Container Utama Game Window */
+      .game-window {
+        background-color: var(--bg-color);
+        width: 900px;
+        height: 600px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+        display: flex;
+        flex-direction: row;
+        border: 2px solid var(--border-color);
+      }
+
+      /* Sidebar Navigasi Kanan (Meniru layout referensi) */
+      .sidebar {
+        width: 150px;
+        border-left: 2px solid var(--border-color);
+        display: flex;
+        flex-direction: column;
+        padding: 20px 0;
+        font-family: "Noto Sans", sans-serif;
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .tab-btn {
+        background: none;
+        border: none;
+        text-align: left;
+        padding: 10px 20px;
+        color: var(--text-muted);
+        cursor: pointer;
+        transition: 0.2s;
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .tab-btn:hover {
+        color: var(--text-main);
+      }
+      .tab-btn.active {
+        color: var(--text-main);
+        font-weight: 600;
+      }
+
+      /* Area Konten Utama */
+      .content-area {
+        flex-grow: 1;
+        padding: 40px;
+        overflow-y: auto;
+      }
+
+      .tab-content {
+        display: none;
+      }
+      .tab-content.active {
+        display: block;
+        animation: fadeIn 0.3s ease;
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(5px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      /* --- TYPOGRAPHY & UMUM --- */
+      h1 {
+        font-size: 24px;
+        margin-top: 0;
+        border-bottom: 2px solid var(--border-color);
+        padding-bottom: 10px;
+        font-weight: 400;
+      }
+      h2 {
+        font-size: 16px;
+        color: var(--text-muted);
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-family: "Noto Sans", sans-serif;
+        margin-top: 30px;
+      }
+      .divider {
+        height: 1px;
+        background-color: var(--border-color);
+        margin: 20px 0;
+      }
+
+      /* --- CHARACTER MENU LAYOUT --- */
+      .char-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 40px;
+      }
+      .stat-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 8px;
+        font-family: "Noto Sans", sans-serif;
+        font-size: 14px;
+      }
+      .stat-name {
+        color: var(--text-muted);
+      }
+      .stat-val {
+        font-weight: 600;
+      }
+
+      /* Progress Bars */
+      .bar-container {
+        width: 100%;
+        background-color: #d8d0c0;
+        height: 6px;
+        margin-top: 4px;
+        border-radius: 3px;
+        overflow: hidden;
+      }
+      .bar-fill.hp {
+        background-color: var(--hp-color);
+        width: 85%;
+        height: 100%;
+      }
+      .bar-fill.energy {
+        background-color: var(--energy-color);
+        width: 40%;
+        height: 100%;
+      }
+      .bar-fill.exp {
+        background-color: var(--exp-color);
+        width: 60%;
+        height: 100%;
+      }
+
+      .equip-slot {
+        margin-bottom: 15px;
+      }
+      .equip-type {
+        font-size: 11px;
+        color: var(--text-muted);
+        text-transform: uppercase;
+        font-family: "Noto Sans", sans-serif;
+      }
+      .equip-name {
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 2px;
+      }
+
+      /* --- JOURNAL MENU LAYOUT --- */
+      .journal-layout {
+        display: flex;
+        gap: 30px;
+        height: 100%;
+      }
+      .journal-list {
+        width: 40%;
+        border-right: 1px solid var(--border-color);
+        padding-right: 20px;
+      }
+      .journal-entry {
+        cursor: pointer;
+        padding: 10px 0;
+        border-bottom: 1px solid var(--border-color);
+        color: var(--text-muted);
+      }
+      .journal-entry:hover,
+      .journal-entry.active {
+        color: var(--text-main);
+        font-weight: bold;
+      }
+      .journal-details {
+        width: 60%;
+        font-size: 14px;
+        line-height: 1.8;
+      }
+
+      /* --- SETTINGS MENU LAYOUT --- */
+      .setting-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 25px;
+      }
+      .setting-label {
+        font-family: "Noto Sans", sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+      }
+
+      /* Custom Slider */
+      input[type="range"] {
+        -webkit-appearance: none;
+        width: 200px;
+        background: transparent;
+      }
+      input[type="range"]::-webkit-slider-runnable-track {
+        width: 100%;
+        height: 4px;
+        background: var(--border-color);
+        border-radius: 2px;
+      }
+      input[type="range"]::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        height: 16px;
+        width: 16px;
+        border-radius: 50%;
+        background: var(--text-main);
+        margin-top: -6px;
+        cursor: pointer;
+      }
+
+      /* Custom Checkbox / Toggle */
+      .toggle-btn {
+        background: var(--bg-color);
+        border: 2px solid var(--text-main);
+        color: var(--text-main);
+        padding: 5px 15px;
+        cursor: pointer;
+        font-family: "Noto Sans";
+        font-size: 12px;
+        font-weight: bold;
+      }
+      .toggle-btn.on {
+        background: var(--text-main);
+        color: var(--bg-color);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="game-window">
+      <div class="content-area">
+        <div id="character" class="tab-content active">
+          <h1>Character Profile</h1>
+          <div class="char-grid">
+            <div>
+              <h2>Vitals</h2>
+              <div class="stat-row">
+                <span class="stat-name">Level 5 Vagabond</span>
+                <span class="stat-val">EXP: 150/250</span>
+              </div>
+              <div class="bar-container"><div class="bar-fill exp"></div></div>
+              <br />
+              <div class="stat-row">
+                <span class="stat-name">Health</span>
+                <span class="stat-val">17/20</span>
+              </div>
+              <div class="bar-container"><div class="bar-fill hp"></div></div>
+              <br />
+              <div class="stat-row">
+                <span class="stat-name">Energy</span>
+                <span class="stat-val">Sleepy</span>
+              </div>
+              <div class="bar-container">
+                <div class="bar-fill energy"></div>
+              </div>
+
+              <h2>Attributes</h2>
+              <div class="stat-row">
+                <span class="stat-name">Strength</span>
+                <span class="stat-val">5</span>
+              </div>
+              <div class="stat-row">
+                <span class="stat-name">Dexterity</span>
+                <span class="stat-val">4</span>
+              </div>
+              <div class="stat-row">
+                <span class="stat-name">Endurance</span>
+                <span class="stat-val">7</span>
+              </div>
+              <div class="stat-row">
+                <span class="stat-name">Intelligence</span>
+                <span class="stat-val">2</span>
+              </div>
+              <div class="stat-row">
+                <span class="stat-name">Awareness</span>
+                <span class="stat-val">4</span>
+              </div>
+              <div class="stat-row">
+                <span class="stat-name">Charisma</span>
+                <span class="stat-val">6</span>
+              </div>
+              <div class="stat-row">
+                <span class="stat-name">Luck</span>
+                <span class="stat-val">8</span>
+              </div>
+            </div>
+
+            <div>
+              <h2>Equipment</h2>
+              <div class="equip-slot">
+                <div class="equip-type">Weapon</div>
+                <div class="equip-name">Squeaky Nail</div>
+                <div
+                  style="
+                    font-size: 12px;
+                    color: var(--text-muted);
+                    font-style: italic;
+                  "
+                >
+                  Deals physical and psychological damage.
+                </div>
+              </div>
+              <div class="divider"></div>
+              <div class="equip-slot">
+                <div class="equip-type">Armor</div>
+                <div class="equip-name">Cozy Moth Cloak</div>
+                <div
+                  style="
+                    font-size: 12px;
+                    color: var(--text-muted);
+                    font-style: italic;
+                  "
+                >
+                  Very soft. Boosts Dexterity.
+                </div>
+              </div>
+              <div class="divider"></div>
+              <div class="equip-slot">
+                <div class="equip-type">Accessory</div>
+                <div class="equip-name">Clown Nose</div>
+                <div
+                  style="
+                    font-size: 12px;
+                    color: var(--text-muted);
+                    font-style: italic;
+                  "
+                >
+                  Honks when squeezed. +2 Charisma.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="journal" class="tab-content">
+          <h1>Journal & Lore</h1>
+          <div class="journal-layout">
+            <div class="journal-list">
+              <div class="journal-entry active">The 100-Year Nap</div>
+              <div class="journal-entry">Missing Party Invites</div>
+              <div class="journal-entry">The Ultimate Giant Cake</div>
+              <h2 style="margin-top: 20px">Bestiary</h2>
+              <div class="journal-entry">Sir Beetle</div>
+              <div class="journal-entry">Jelly Cube Intern</div>
+            </div>
+            <div class="journal-details">
+              <h2 style="margin-top: 0; color: var(--text-main)">
+                The 100-Year Nap
+              </h2>
+              <p>
+                I woke up this morning feeling incredibly groggy. Apparently,
+                sleeping on a bed of enchanted moss for a century leaves you
+                with a terrible hangover and an empty stomach.
+              </p>
+              <p>
+                The first thing I need to do is find some breakfast. Maybe the
+                locals in <b>Sunflower Village</b> have something to eat. I
+                should ask around, but I need to be careful—the monsters around
+                here seem completely ridiculous.
+              </p>
+              <br />
+              <span
+                style="
+                  font-size: 12px;
+                  font-family: &quot;Noto Sans&quot;;
+                  color: var(--hp-color);
+                  font-weight: bold;
+                "
+                >OBJECTIVE: Survive and find breakfast.</span
+              >
+            </div>
+          </div>
+        </div>
+
+        <div id="settings" class="tab-content">
+          <h1>Settings</h1>
+          <div style="max-width: 500px; margin-top: 30px">
+            <div class="setting-row">
+              <span class="setting-label">Master Volume</span>
+              <input type="range" min="1" max="100" value="70" />
+            </div>
+            <div class="setting-row">
+              <span class="setting-label">Music Volume</span>
+              <input type="range" min="1" max="100" value="50" />
+            </div>
+            <div class="setting-row">
+              <span class="setting-label">SFX Volume</span>
+              <input type="range" min="1" max="100" value="80" />
+            </div>
+
+            <div class="divider"></div>
+
+            <div class="setting-row">
+              <span class="setting-label">Text Speed</span>
+              <span class="setting-label" style="color: var(--text-muted)"
+                >Normal</span
+              >
+            </div>
+            <div class="setting-row">
+              <span class="setting-label">Fullscreen</span>
+              <button
+                class="toggle-btn"
+                onclick="
+                  this.classList.toggle('on');
+                  this.innerText = this.classList.contains('on') ? 'ON' : 'OFF';
+                "
+              >
+                OFF
+              </button>
+            </div>
+            <div class="setting-row">
+              <span class="setting-label">Dyslexia Font</span>
+              <button
+                class="toggle-btn"
+                onclick="
+                  this.classList.toggle('on');
+                  this.innerText = this.classList.contains('on') ? 'ON' : 'OFF';
+                "
+              >
+                OFF
+              </button>
+            </div>
+
+            <div class="divider"></div>
+            <div
+              class="setting-row"
+              style="justify-content: flex-start; gap: 15px"
+            >
+              <button class="toggle-btn on">SAVE GAME</button>
+              <button class="toggle-btn">LOAD GAME</button>
+              <button
+                class="toggle-btn"
+                style="color: var(--hp-color); border-color: var(--hp-color)"
+              >
+                QUIT TO MENU
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar">
+        <button class="tab-btn active" onclick="openTab('character', this)">
+          Character <span>C</span>
+        </button>
+        <button class="tab-btn" onclick="openTab('journal', this)">
+          Journal <span>J</span>
+        </button>
+        <div class="divider" style="margin: 5px 20px"></div>
+        <button class="tab-btn" onclick="openTab('settings', this)">
+          Settings <span>Esc</span>
+        </button>
+      </div>
+    </div>
+
+    <script>
+      // Script sederhana untuk mengganti Tab
+      function openTab(tabName, btn) {
+        // Sembunyikan semua tab content
+        var contents = document.getElementsByClassName("tab-content");
+        for (var i = 0; i < contents.length; i++) {
+          contents[i].classList.remove("active");
+        }
+        // Matikan semua tombol
+        var btns = document.getElementsByClassName("tab-btn");
+        for (var i = 0; i < btns.length; i++) {
+          btns[i].classList.remove("active");
+        }
+        // Tampilkan tab yang dipilih
+        document.getElementById(tabName).classList.add("active");
+        btn.classList.add("active");
+      }
+    </script>
+  </body>
+</html>
