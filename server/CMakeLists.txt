@@ -23,3 +23,17 @@ target_include_directories(server_app PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/vendor/llama.cpp/common
     ${CMAKE_CURRENT_SOURCE_DIR}/vendor/llama.cpp
 )
+
+# Cari library thread bawaan OS (Wajib untuk httplib)
+find_package(Threads REQUIRED)
+
+# Hubungkan library utama llama dan Threads ke aplikasi kita
+target_link_libraries(server_app PRIVATE llama Threads::Threads)
+
+# Beri tahu lokasi header (termasuk folder vendor agar httplib.h terbaca)
+target_include_directories(server_app PRIVATE 
+    ${CMAKE_CURRENT_SOURCE_DIR}/vendor/llama.cpp/include
+    ${CMAKE_CURRENT_SOURCE_DIR}/vendor/llama.cpp/common
+    ${CMAKE_CURRENT_SOURCE_DIR}/vendor/llama.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/vendor
+)
