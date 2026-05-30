@@ -1,73 +1,84 @@
 import json
 import requests
 import time
-
-# 1. Masukkan API Key Groq Anda di sini (JANGAN DIBAGIKAN KE PUBLIK)
+import random
 GROQ_API_KEY = ""
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+
 TEACHER_MODEL = "llama-3.1-8b-instant"
 
-# Instruksi SFT
-SFT_INSTRUCTION = "You are the AI Dungeon Master for a lighthearted, comedic D&D-style RPG. Write a creative 2nd-person narrative based on the player's action and the system's dice roll outcome. Follow it with a JSON block wrapped in `CODE_BLOCK_START` and `CODE_BLOCK_END` containing the mechanical consequences."
+SFT_INSTRUCTION = "You are the AI DM for a lighthearted, comedic D&D-style RPG. Write a short, funny 2nd-person narrative based EXACTLY on the GODOT SYSTEM VERDICT and the player's EQUIPPED GEAR. Then, output the JSON mechanical consequences wrapped in `CODE_BLOCK_START` and `CODE_BLOCK_END`."
 
 try:
     with open("scenarios.json", "r", encoding="utf-8") as f:
         scenarios = json.load(f)
-    print(f"Berhasil memuat {len(scenarios)} skenario dari file scenarios.json!")
+    print(f"Berhasil memuat {len(scenarios)} skenario!")
 except FileNotFoundError:
-    print("[!] Error: File scenarios.json tidak ditemukan di folder ini!")
+    print("[!] Error: File scenarios.json tidak ditemukan!")
     exit()
 
+SILLY_WEAPONS = ["Rubber Chicken", "Wet Noodle", "Baguette of Doom", "Slightly Bent Spoon", "Frying Pan", "Bare Hands"]
+SILLY_ARMORS = ["Cardboard Box", "Trash Can Lid", "Oversized Sweater", "Tin Foil Hat", "Nothing but Confidence"]
+SILLY_ACCESSORIES = ["Fake Mustache", "Squeaky Shoes", "Googly Eye Glasses", "Glittery Cape"]
 
-def generate_teacher_response(input_text):
-    teacher_system_prompt = f"""You are an expert AI data generator. Read the Game Engine Prompt below.
-You must generate a response consisting of exactly TWO parts:
-1. A short, funny, and slapstick 2nd-person narrative reflecting the Player Action and the System Directive rules (evaluating the D20 roll + Stat against the DC). DO NOT wrap the narrative in quotes.
-2. A JSON block wrapped EXACTLY in `CODE_BLOCK_START` and `CODE_BLOCK_END`.
+def generate_sft_response(godot_prompt):
+    teacher_system_prompt = f"""You are an expert AI data generator crafting training data for a comedic RPG game.
+Read the Godot Game Engine Prompt below.
 
-JSON Schema MUST follow this exactly:
+You must generate a valid JSON object with EXACTLY two keys: "narrative" and "consequences".
+
+1. "narrative": A short, highly comedic, and cheerful 2nd-person narrative reflecting the Player Action. 
+   - You MUST obey the GODOT SYSTEM VERDICT.
+   - You MUST vividly describe the player using their [Equipped Gear] if it logically fits the action.
+2. "consequences": A JSON object containing the mechanical effects.
+
+[Consequences Strict Rules]
+- OMIT "dm_logic" entirely.
+- "items_given" must be a list of objects containing: "id", "name", "description", "restore_hp" (int), and "restore_energy" (int).
+- "equipment_given" must be a list of objects containing: "id", "name", "description", "type" (weapon/armor/accessory), and "stat_boosts" (object).
+- "new_plot_id" and "new_location_id" must be strings or "none".
+
+Return ONLY a valid JSON object matching this schema:
 {{
-  "dm_logic": {{
-    "stat_chosen": "string (e.g., STR, DEX, CHA)",
-    "stat_value": int,
-    "dc_set": int,
-    "total_score": int,
-    "is_success": bool
-  }},
-  "player_hp_change": int (0 if no damage, negative for damage, positive for heal),
-  "player_energy_change": int,
-  "exp_gained": int (e.g., 10, 20, 50),
-  "player_stat_change": {{
-    "strength": int, "dexterity": int, "endurance": int, 
-    "intelligence": int, "awareness": int, "charisma": int, "luck": int
-  }},
-  "target_hp_change": int,
-  "target_status_effect": "string or null",
-  "items_given": ["list", "of", "strings"],
-  "equipment_given": ["list", "of", "strings"]
+  "narrative": "Your funny story here...",
+  "consequences": {{
+    "player_hp_change": 0,
+    "player_energy_change": 0,
+    "exp_gained": 0,
+    "player_stat_change": {{
+      "strength": 0, "dexterity": 0, "endurance": 0,
+      "intelligence": 0, "awareness": 0, "charisma": 0, "luck": 0
+    }},
+    "target_hp_change": 0,
+    "target_status_effect": "none",
+    "items_given": [],
+    "equipment_given": [],
+    "new_plot_id": "none",
+    "new_location_id": "none",
+    "enemy_defeated": false
+  }}
 }}
 
 Game Engine Prompt:
-{input_text}
-
-Generate only the narrative and the JSON. Do not add markdown like ```json."""
+{godot_prompt}"""
 
     headers = {
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json"
     }
 
+    # Memaksa Groq untuk merespons dengan JSON murni
     payload = {
         "model": TEACHER_MODEL,
         "messages": [
-            {"role": "system", "content": "You are a precise data generation assistant for a comedic D&D RPG."},
+            {"role": "system", "content": "You output strict JSON containing 'narrative' and 'consequences' for RPG training data."},
             {"role": "user", "content": teacher_system_prompt}
         ],
-        "temperature": 0.6 
+        "temperature": 0.8,
+        "response_format": {"type": "json_object"}
     }
     
-    # KITA NAIKKAN RETRY AGAR SCRIPT LEBIH TANGGUH DITINGGAL LAMA
     max_retries = 10 
     for attempt in range(max_retries):
         try:
@@ -75,59 +86,103 @@ Generate only the narrative and the JSON. Do not add markdown like ```json."""
             response.raise_for_status() 
             
             raw_output = response.json()["choices"][0]["message"]["content"].strip()
-            raw_output = raw_output.replace("```json", "").replace("```", "")
-            return raw_output.strip()
+            result_json = json.loads(raw_output)
+            
+            narrative = result_json.get("narrative", "")
+            consequences_dict = result_json.get("consequences", {})
+            consequences_string = json.dumps(consequences_dict, indent=2)
+            
+            final_stitched_output = f"{narrative}\n`CODE_BLOCK_START`\n{consequences_string}\n`CODE_BLOCK_END`"
+            return final_stitched_output
             
         except requests.exceptions.HTTPError as e:
             if response.status_code == 429:
-                # KUNCI PERUBAHAN: Set waktu tunggu statis menjadi 10.5 menit (630 detik)
-                wait_time = 630 
-                print(f"      [!] Terkena Rate Limit Groq. Sistem beristirahat selama 10.5 menit ({wait_time} detik)... (Percobaan {attempt + 1}/{max_retries})")
+                wait_time = 100
+                print(f"      [!] Terkena Rate Limit Groq. Istirahat 10.5 menit... (Percobaan {attempt + 1}/{max_retries})")
                 time.sleep(wait_time)
-                print("      [+] Istirahat selesai. Mencoba mengirim ulang...")
             else:
                 print(f"\n[!] HTTP Error: {e}")
-                return None
+                time.sleep(5)
+        except json.JSONDecodeError as e:
+            print(f"\n[!] AI gagal membuat JSON yang valid, mencoba lagi... ({e})")
+            time.sleep(2)
         except Exception as e:
             print(f"\n[!] Error menghubungi Groq API: {e}")
-            return None
+            time.sleep(5)
             
-    print("\n[!] Gagal memproses setelah mencoba maksimal 10 kali berturut-turut.")
     return None
 
 def main():
-    output_filename = "dataset_sft_final.jsonl"
-    print(f"Memulai sintesis data. Target file: {output_filename}")
+    output_filename = "dataset_sft_groq_equipped.jsonl"
+    print(f"Memulai sintesis data SFT dengan {TEACHER_MODEL}... Target file: {output_filename}")
     
     with open(output_filename, 'a', encoding='utf-8') as f:
-        # PENTING: Jika script Anda tadi mati di skenario 90, 
-        # pastikan Anda mengubah angka 0 di bawah ini menjadi 89 agar tidak mengulang dari awal!
         start_index = 0 
         
         for i in range(start_index, len(scenarios)):
             scene = scenarios[i]
             print(f"Memproses Skenario {i+1}/{len(scenarios)}...")
             
-            godot_input = f"{scene['context']}\n\nPlayer Action: \"{scene['action']}\"\n\n[System Directive]\nYou are the AI DM. \n1. Decide which Stat best fits the Player Action.\n2. Determine a logical Difficulty Class (DC) between 5 and 20.\n3. Calculate Total Score = Raw D20 Roll + Chosen Stat.\n4. If Total Score >= DC, the action is a SUCCESS. Otherwise, FAILURE.\n5. Write a comedic narrative based on this outcome, then output the JSON."
+            d20_roll = random.randint(1, 20)
+            if d20_roll >= 10:
+                godot_verdict = "SUCCESS! The player's action succeeds brilliantly."
+            else:
+                godot_verdict = "FAILURE! The player's action fails in a comedic way."
             
-            ideal_output = generate_teacher_response(godot_input)
+            wep = random.choice(SILLY_WEAPONS)
+            arm = random.choice(SILLY_ARMORS)
+            acc = random.choice(SILLY_ACCESSORIES)
+                
+            godot_prompt = f"""[Game Context]
+{scene['context']}
+
+[Equipped Gear]
+- Weapon: {wep}
+- Armor: {arm}
+- Accessory: {acc}
+
+[GODOT SYSTEM VERDICT]
+Player Action: "{scene['action']}"
+Dice Roll: {d20_roll}. Therefore, this action is a {godot_verdict}
+
+[JSON Template]
+`CODE_BLOCK_START`
+{{
+  "player_hp_change": 0,
+  "player_energy_change": 0,
+  "exp_gained": 0,
+  "player_stat_change": {{
+    "strength": 0, "dexterity": 0, "endurance": 0,
+    "intelligence": 0, "awareness": 0, "charisma": 0, "luck": 0
+  }},
+  "target_hp_change": 0,
+  "target_status_effect": "none",
+  "items_given": [],
+  "equipment_given": [],
+  "new_plot_id": "none",
+  "new_location_id": "none",
+  "enemy_defeated": false
+}}
+`CODE_BLOCK_END`"""
+            
+            ideal_output = generate_sft_response(godot_prompt)
             
             if ideal_output:
                 data_row = {
                     "instruction": SFT_INSTRUCTION,
-                    "input": godot_input,
+                    "input": godot_prompt,
                     "output": ideal_output
                 }
                 f.write(json.dumps(data_row) + '\n')
                 f.flush() 
-                print(f"-> Skenario {i+1} sukses!")
+                print(f"-> Skenario {i+1} sukses! (Senjata: {wep})")
             else:
                 print(f"-> Gagal memproses Skenario {i+1}.")
             
-            # Jeda 4 detik antar skenario agar aman dari batas token per menit
+            # Groq sangat cepat, tetapi TPM-nya ketat. Jeda 4 detik cukup aman.
             time.sleep(4)
 
-    print(f"\n[SELESAI] Data SFT berhasil di-generate dan disimpan ke {output_filename}")
+    print(f"\n[SELESAI] Data SFT berhasil di-generate ke {output_filename}")
 
 if __name__ == "__main__":
     main()

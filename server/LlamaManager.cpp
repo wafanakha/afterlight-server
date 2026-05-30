@@ -90,7 +90,7 @@ std::optional<std::string> LlamaManager::generate_response(const std::string& pl
 
     struct llama_sampler* sampler = llama_sampler_chain_init(llama_sampler_chain_default_params());
     llama_sampler_chain_add(sampler, llama_sampler_init_penalties(64, 1.15f, 0.0f, 0.0f));
-    llama_sampler_chain_add(sampler, llama_sampler_init_temp(0.7f));
+    llama_sampler_chain_add(sampler, llama_sampler_init_temp(0.9f));
     llama_sampler_chain_add(sampler, llama_sampler_init_top_k(40));
     llama_sampler_chain_add(sampler, llama_sampler_init_top_p(0.9f, 1));
     llama_sampler_chain_add(sampler, llama_sampler_init_dist(1234));
@@ -146,4 +146,4 @@ std::optional<std::string> LlamaManager::generate_response(const std::string& pl
     return final_output;
 } 
 
-} // namespace hell_adventure
+} 
