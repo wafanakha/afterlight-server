@@ -33,7 +33,7 @@ bool LlamaManager::load_model(const std::string& model_path) {
         return false;
     }
 
-    std::cout << "[LLM] Model berhasil dimuat dan siap melucu!\n";
+    std::cout << "[LLM] Model berhasil dimuat\n";
     return true;
 }
 
