@@ -10,9 +10,9 @@ int main() {
 
     std::string model_path = "game_master.gguf"; 
 
-    std::cout << "=== MENGINISIALISASI OTAK AI ===\n";
+    std::cout << "=== MENGINISIALISASI MODEL ===\n";
     if (!llm.load_model(model_path)) {
-        std::cerr << "Gagal memuat otak AI. Pastikan path file GGUF benar!\n";
+        std::cerr << "Gagal memuat model. Pastikan path file GGUF benar!\n";
         return 1;
     }
 
@@ -25,7 +25,7 @@ int main() {
             json req_data = json::parse(req.body);
             std::string prompt_text = req_data["prompt"];
             
-            std::cout << "[AI sedang memproses...]\n";
+            std::cout << "[Model sedang memproses...]\n";
 
             auto response = llm.generate_response(prompt_text);
 
@@ -37,7 +37,7 @@ int main() {
                 std::cout << "[Respons JSON berhasil dikirim ke Godot]\n";
             } else {
                 res.status = 500;
-                res.set_content("{\"error\": \"AI gagal memproses\"}", "application/json");
+                res.set_content("{\"error\": \"Model gagal memproses\"}", "application/json");
             }
         } catch (const json::exception& e) {
             std::cerr << "[!] Error Parsing JSON: " << e.what() << '\n';
